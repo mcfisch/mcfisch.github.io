@@ -10,6 +10,8 @@ Mostly I want to write about very specific issues I have to solve with all the g
 
 Some of the post will be about woodworking projects, may or may not have finished, as this is another thing I like to do but don't have as much time for as I'd would like to.
 
+And sometimes I'll use this blog as a scratch pad to scribble down something that I need to remember, and that would normally fit into, let's say, a wiki - but I don't have one, so it goes here.
+
 However, I hope you enjoy what you see here, come back any time!
 
 _-- Mario_
