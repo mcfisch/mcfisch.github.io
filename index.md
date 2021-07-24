@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to McFiscH's YAB! (Yay, another blog!)
 
-You can use the [editor on GitHub](https://github.com/mcfisch/mcfisch.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Mario a.k.a. McFiscH, and I'm a SysAdmin, Geek, and Woodworker - oh, and a Dad, so there might be one or two puns and dad jokes appear in the blog. And since I'm German, they may be even more terrible than you'd expect...
 
-### Markdown
+Mostly I want to write about very specific issues I have to solve with all the gadgets and tech at home (as those are usually the issues I _can_ solve - unlike those with the kids, for example. Many of these (the tech issues, not the kids) will be something that arise from special circumstances that make it harder to find solutions online, so I hope mine will help others, too. Others may grow off situations where I've gone wrong at some point, but was too stubborn or just incapable of acknowledging my own failure, doing what Germans excel in: "keep riding the dead horse".
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some of the post will be about woodworking projects, may or may not have finished, as this is another thing I like to do but don't have as much time for as I'd would like to.
 
-```markdown
-Syntax highlighted code block
+However, I hope you enjoy what you see here, come back any time!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mcfisch/mcfisch.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_Mario_
