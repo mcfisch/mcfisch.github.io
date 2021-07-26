@@ -34,7 +34,7 @@ google_analytics:
 comments: false
 
 # Build settings
-# theme: jekyll-whiteglass
+theme: whiteglass
 # remote_theme: mcfisch/jekyll-whiteglass
 plugins:
   - jekyll-archives
