@@ -16,7 +16,7 @@ google_analytics:
 comments: false
 
 # Build settings
-theme: whiteglass-template
+theme: jekyll-whiteglass
 plugins:
   - jekyll-archives
   - jekyll-paginate
