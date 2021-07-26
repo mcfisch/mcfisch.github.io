@@ -4,3 +4,4 @@ theme: jekyll-theme-dinky
 title: McFisch's Blog
 author: Mario Fischer
 description: It's Mario, sharing thoughts, notes, projects etc.
+show_downloads: false
