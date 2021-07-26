@@ -1,5 +1,6 @@
 ---
-title: Welcome at McFiscH's Blog
+layout: post
+title: "Welcome at McFiscH's Blog"
 date: 2021-07-23 18:00 -0700
 Category: general
 ---
