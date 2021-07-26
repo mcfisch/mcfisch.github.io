@@ -23,6 +23,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 exclude:
+  - Gemfile
+  - Gemfile.lock
   - README.md
 
 # Outputting
