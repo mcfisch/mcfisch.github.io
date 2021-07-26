@@ -1,5 +1,5 @@
-# theme: jekyll-theme-midnight
-remote_theme: DigitalMindCH/gridster-jekyll-theme
+theme: jekyll-theme-dinky
+# remote_theme: DigitalMindCH/gridster-jekyll-theme
 # remote_theme: yous/whiteglass-template
 title: McFisch's Blog
 author: Mario Fischer
