@@ -12,6 +12,9 @@ lang: en
 timezone: America/Los_Angeles # need to check if this works
 content_lang: ''
 
+plugins:
+  - jekyll-remote-theme
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
