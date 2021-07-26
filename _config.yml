@@ -1,8 +1,8 @@
 # The Site Configuration
 
 # Import the theme
-theme: jekyll-theme-chirpy
-# remote_theme: cotes2020/jekyll-theme-chirpy
+#theme: jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy
 title: McFiscH's Blog
 description: >- # this means to ignore newlines until "baseurl:"
   It's Mario, sharing thoughts, notes, projects etc.
