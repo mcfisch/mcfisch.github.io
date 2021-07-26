@@ -1,6 +1,6 @@
 # theme: jekyll-theme-midnight
-#remote-theme: DigitalMindCH/gridster-jekyll-theme
-remote-theme: yous/whiteglass-template
+#remote_theme: DigitalMindCH/gridster-jekyll-theme
+remote_theme: yous/whiteglass-template
 title: McFisch's Blog
 author: Mario Fischer
 description: Mario sharing thoughts, notes, projects etc.
