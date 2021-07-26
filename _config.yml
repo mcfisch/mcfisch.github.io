@@ -17,7 +17,7 @@ comments: false
 
 # Build settings
 # theme: jekyll-whiteglass
-theme: mcfisch/whiteglass-template
+remote_theme: mcfisch/whiteglass-template
 plugins:
   - jekyll-archives
   - jekyll-paginate
