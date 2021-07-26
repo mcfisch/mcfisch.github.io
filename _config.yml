@@ -1,9 +1,9 @@
-baseurl: ""
-url: "https://blog-test.mcfisch.com"
 title: McFiscH's Blog
 author: Mario Fischer
 description: >- # this means to ignore newlines until "baseurl:"
   It's Mario, sharing thoughts, notes, projects etc.
+baseurl:
+url: "https://blog-test.mcfisch.com"
 lang: en
 timezone: America/Los_Angeles # need to check if this works
 
