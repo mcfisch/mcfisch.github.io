@@ -11,19 +11,32 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 /* append your custom style below */
 
+
+html {
+  --sidebar-bg: radial-gradient(
+      circle,
+      #727272 0%,
+      #4b4b4b 100%);
+  --btn-paginator-shadow: #595959;
+}
+
+html * h1 a {
+  color: #656565;
+}
+
 html[mode=dark] {
 --sidebar-bg: radial-gradient(
     circle,
-    rgba(45, 45, 45, 1) 0%,
-    rgba(26, 26, 26, 1) 100%);
+    #363636 0%,
+    #000000 100%);
+}
+
+html[mode=dark] * h1 a {
+  color: gainsboro;
 }
 
 .pagination .page-item.active .page-link {
   background-color: #454545;
   border-color: #8a8a8a;
   box-shadow: #b1b1b1;
-}
-
-html[mode=dark] * h1 a {
-  color: gainsboro;
 }
