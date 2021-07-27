@@ -1,10 +1,10 @@
 ---
 # layout: post # default
-title: "Welcome at McFiscH's Blog"
+title: "Welcome at McFiscH's"
 date: 2021-07-23 18:00 -0700
 categories: [General]
 ---
-> It's-a me, Mario!
+> It's-a me, Mario!<br>
 >
 > *Mario*
 
