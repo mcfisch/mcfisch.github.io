@@ -9,33 +9,20 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 @import "{{ site.theme }}";
 
-/* append your custom style below */
+  /* 
+    Custom Styles
+  */
 
-
+/* Round Post Navigation Buttons */
 html:not([mode]), html[mode=light] {
   --sidebar-bg: radial-gradient(
-      circle,
-      #727272 0%,
-      #4b4b4b 100%);
+    circle,
+    #727272 0%,
+    #4b4b4b 100%);
   --btn-paginator-shadow: #bbbbbb;
   --btn-active-bg: #727272;
   --btn-active-border-color: #4b4b4b;
 }
-
-html:not([mode]), html[mode=light] #sidebar {
-  color: #d0d0d0;
-}
-
-html:not([mode]), html[mode=light] .pagination .page-item.active .page-link {
-  background-color: #454545;
-  border-color: #8a8a8a;
-  // box-shadow: #b1b1b1;
-}
-
-html:not([mode]), html[mode=light] #search-results a, .post-content a:not(.img-link), .post-meta a, a {
-  color: #727272;
-}
-
 html[mode=dark] {
   --sidebar-bg: radial-gradient(
     circle,
@@ -46,13 +33,26 @@ html[mode=dark] {
   --btn-paginator-border-color: #8a8a8a;
 }
 
+/* Sidebar Navigation */
+html:not([mode]), html[mode=light] #sidebar {
+  color: #d0d0d0;
+}
+
+/* Round Post Navigation Buttons */
+html:not([mode]), html[mode=light] .pagination .page-item.active .page-link {
+  background-color: #454545;
+  border-color: #8a8a8a;
+}
 html[mode=dark] .pagination .page-item.active .page-link {
   background-color: #dcdcdc;
   border-color: #8a8a8a;
   color: #454545;
 }
 
+/* Post Overview */
 html[mode=dark] #search-results a, .post-content a:not(.img-link), .post-meta a, a {
   color: #dcdcdc;
 }
-
+html:not([mode]), html[mode=light] #search-results a, .post-content a:not(.img-link), .post-meta a, a {
+  color: #727272;
+}
