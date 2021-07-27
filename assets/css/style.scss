@@ -22,7 +22,11 @@ html:not([mode]), html[mode=light] {
   --btn-active-border-color: #4b4b4b;
 }
 
-html[mode=dark] .pagination .page-item.active .page-link {
+html:not([mode]), html[mode=light] #sidebar .nav-link {
+  color: #e2e2e2;
+}
+
+html:not([mode]), html[mode=light] .pagination .page-item.active .page-link {
   background-color: #454545;
   border-color: #8a8a8a;
   box-shadow: #b1b1b1;
@@ -41,7 +45,7 @@ html[mode=dark] {
   --btn-paginator-border-color: #8a8a8a;
 }
 
-html[mode=dark] post-preview h1 a {
+html[mode=dark] .post-preview h1 a {
   color: gainsboro;
 }
 
