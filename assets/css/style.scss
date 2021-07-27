@@ -1,0 +1,19 @@
+---
+---
+
+/*
+  If the number of TAB files has changed, the following variable is required.
+  And it must be defined before `@import`.
+*/
+$tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
+
+@import "{{ site.theme }}";
+
+/* append your custom style below */
+
+#sidebar {
+  background: radial-gradient(
+    circle,
+    rgba(45, 45, 45, 1) 0%,
+    rgba(26, 26, 26, 1) 100%);
+}
