@@ -29,10 +29,10 @@ html:not([mode]), html[mode=light] #sidebar .nav-link {
 html:not([mode]), html[mode=light] .pagination .page-item.active .page-link {
   background-color: #454545;
   border-color: #8a8a8a;
-  box-shadow: #b1b1b1;
+  // box-shadow: #b1b1b1;
 }
 
-html:not([mode]), html[mode=light] .post-preview h1 a {
+html:not([mode]), html[mode=light] #search-results a, .post-content a:not(.img-link), .post-meta a, a {
   color: #656565;
 }
 
@@ -47,13 +47,12 @@ html[mode=dark] {
 }
 
 html[mode=dark] .pagination .page-item.active .page-link {
-  background-color: #e2e2e2;
+  background-color: #dcdcdc;
   border-color: #8a8a8a;
-  box-shadow: #bbbbbb;
-  color: #8a8a8a;
+  color: #454545;
 }
 
-html[mode=dark] .post-preview h1 a {
-  color: gainsboro;
+html[mode=dark] #search-results a, .post-content a:not(.img-link), .post-meta a, a {
+  color: #dcdcdc;
 }
 
