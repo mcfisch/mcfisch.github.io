@@ -2,7 +2,10 @@
 
 # Import the theme
 #theme: jekyll-theme-chirpy
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy@4.1.0
+plugins:
+- jekyll-remote-theme
+
 title: McFiscH's Blog
 description: >- # this means to ignore newlines until "baseurl:"
   It's Mario, sharing thoughts, notes, projects etc.
@@ -12,8 +15,6 @@ lang: en
 timezone: America/Los_Angeles # need to check if this works
 content_lang: ''
 
-plugins:
-  - jekyll-remote-theme
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
