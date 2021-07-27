@@ -11,8 +11,8 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 /* append your custom style below */
 
-#sidebar {
-  background: radial-gradient(
+:root {
+--sidebar-bg: radial-gradient(
     circle,
     rgba(45, 45, 45, 1) 0%,
     rgba(26, 26, 26, 1) 100%);
@@ -24,8 +24,7 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
   box-shadow: #b1b1b1;
 }
 
-@if $dark-mode {
-  h1 a {
-    color: darkgray;
+html[mode=dark]  h1 a {
+    color: gainsboro;
   }
 }
