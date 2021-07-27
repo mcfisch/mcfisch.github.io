@@ -17,10 +17,10 @@ html:not([mode]), html[mode=light] {
       circle,
       #727272 0%,
       #4b4b4b 100%);
-  --btn-paginator-shadow: #595959;
+  --btn-paginator-shadow: #bbbbbb;
 }
 
-html:not([mode]), html[mode=light] * h1 a {
+html:not([mode]), html[mode=light] h1 > a {
   color: #656565;
 }
 
@@ -31,7 +31,7 @@ html[mode=dark] {
     #000000 100%);
 }
 
-html[mode=dark] * h1 a {
+html[mode=dark] h1 > a {
   color: gainsboro;
 }
 
