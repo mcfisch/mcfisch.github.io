@@ -17,3 +17,13 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
     rgba(45, 45, 45, 1) 0%,
     rgba(26, 26, 26, 1) 100%);
 }
+
+.pagination .page-item.active .page-link {
+  background-color: #454545;
+  border-color: #8a8a8a;
+  box-shadow: #b1b1b1;
+}
+
+a {
+  color: darkslategray;
+}
