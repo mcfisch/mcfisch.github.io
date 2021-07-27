@@ -42,7 +42,15 @@ html[mode=dark] {
     #1d1d1d 0%,
     #000000 100%);
   --btn-paginator-shadow: #bbbbbb;
+  --btn-active-bg: #727272;
   --btn-paginator-border-color: #8a8a8a;
+}
+
+html[mode=dark] .pagination .page-item.active .page-link {
+  background-color: #e2e2e2;
+  border-color: #8a8a8a;
+  box-shadow: #bbbbbb;
+  color: #8a8a8a;
 }
 
 html[mode=dark] .post-preview h1 a {
