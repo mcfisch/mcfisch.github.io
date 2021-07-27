@@ -1,7 +1,9 @@
 # The Site Configuration
 
+# Theme Source: https://github.com/cotes2020/jekyll-theme-chirpy
+# Theme Guidance: https://chirpy.cotes.info
+
 # Import the theme
-#remote_theme: cotes2020/jekyll-theme-chirpy
 theme: jekyll-theme-chirpy
 title: McFiscH's Blog
 tagline: '' # Subtitle
@@ -9,28 +11,24 @@ description: >-
   It's Mario, sharing thoughts, notes, projects etc.
 url: "https://blog-test.mcfisch.com"
 lang: en
-timezone: America/Los_Angeles # need to check if this works
+timezone: America/Los_Angeles
 content_lang: ''
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-# tagline: A text-focused Jekyll theme   # it will display as the sub-title
-
 github:
   username: mcfisch
 twitter:
-  username: systemfisch            # change to your twitter username
+  username: systemfisch
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Mario Fischer
+  name: Mario Fischer # Author
   #email: noreply@mcfisch.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/systemfisch      # change to your twitter homepage
-    - https://github.com/mcfisch       # change to your github homepage
+    - https://github.com/mcfisch
+    - https://twitter.com/systemfisch
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
