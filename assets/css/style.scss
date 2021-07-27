@@ -22,8 +22,8 @@ html:not([mode]), html[mode=light] {
   --btn-active-border-color: #4b4b4b;
 }
 
-html:not([mode]), html[mode=light] #sidebar .nav-link {
-  color: #e2e2e2;
+html:not([mode]), html[mode=light] #sidebar {
+  color: #d0d0d0;
 }
 
 html:not([mode]), html[mode=light] .pagination .page-item.active .page-link {
@@ -33,7 +33,7 @@ html:not([mode]), html[mode=light] .pagination .page-item.active .page-link {
 }
 
 html:not([mode]), html[mode=light] #search-results a, .post-content a:not(.img-link), .post-meta a, a {
-  color: #656565;
+  color: #727272;
 }
 
 html[mode=dark] {
