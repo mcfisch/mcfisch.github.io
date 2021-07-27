@@ -18,27 +18,30 @@ html:not([mode]), html[mode=light] {
       #727272 0%,
       #4b4b4b 100%);
   --btn-paginator-shadow: #bbbbbb;
+  --btn-active-bg: #727272;
+  --btn-active-border-color: #4b4b4b;
 }
 
-html:not([mode]), html[mode=light] h1 > a {
+html[mode=dark] .pagination .page-item.active .page-link {
+  background-color: #454545;
+  border-color: #8a8a8a;
+  box-shadow: #b1b1b1;
+}
+
+html:not([mode]), html[mode=light] .post-preview h1 a {
   color: #656565;
 }
 
 html[mode=dark] {
---sidebar-bg: radial-gradient(
+  --sidebar-bg: radial-gradient(
     circle,
     #1d1d1d 0%,
     #000000 100%);
-    --btn-paginator-shadow: #bbbbbb;
-    --btn-paginator-border-color: #8a8a8a;
-  }
+  --btn-paginator-shadow: #bbbbbb;
+  --btn-paginator-border-color: #8a8a8a;
+}
 
-html[mode=dark] h1 > a {
+html[mode=dark] post-preview h1 a {
   color: gainsboro;
 }
 
-// .pagination .page-item.active .page-link {
-//   background-color: #454545;
-//   border-color: #8a8a8a;
-//   box-shadow: #b1b1b1;
-// }
