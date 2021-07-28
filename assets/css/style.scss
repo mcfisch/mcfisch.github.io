@@ -39,7 +39,7 @@ html:not([mode]), html[mode=light] #sidebar {
 }
 @media (min-width: 850px) and (max-width: 1650px) {
   #sidebar {
-    width: 14rem;
+    width: 15rem;
   }
   #sidebar ul .nav-item .nav-link>i.unloaded {
     display: inline-block !important;
