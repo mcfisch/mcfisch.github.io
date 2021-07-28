@@ -44,6 +44,9 @@ html:not([mode]), html[mode=light] #sidebar {
   #sidebar ul .nav-item .nav-link>i.unloaded {
     display: inline-block !important;
   }
+  #sidebar ul {
+    padding-left: 1.5rem;
+  }
   #sidebar ul .nav-item .nav-link>i {
     border: 1px solid;
     border-radius: 50%;
