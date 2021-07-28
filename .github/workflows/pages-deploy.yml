@@ -2,7 +2,7 @@ name: 'Automatic build'
 on:
   push:
     branches:
-      - template_chirpy
+      - main
     paths-ignore:
       - .gitignore
       - README.md
