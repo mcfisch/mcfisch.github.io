@@ -37,6 +37,30 @@ html[mode=dark] {
 html:not([mode]), html[mode=light] #sidebar {
   color: #d0d0d0;
 }
+@media (min-width: 1000px)
+  #sidebar {
+    width: 260px;
+}
+@media (min-width: 1000px)
+  #sidebar ul .nav-item .nav-link>i.unloaded {
+    display: inline-block !important;
+}
+@media (min-width: 1000px)
+  #sidebar ul .nav-item .nav-link>i {
+    border: 1px solid;
+    border-radius: 50%;
+    width: 1.65rem;
+    height: 1.65rem;
+    line-height: 1.5rem;
+    font-size: 0.6rem;
+    padding-top: 1px;
+    padding-left: 1px;
+    position: relative;
+    bottom: 1px;
+}
+
+
+
 
 /* Round Post Navigation Buttons */
 html:not([mode]), html[mode=light] .pagination .page-item.active .page-link {
