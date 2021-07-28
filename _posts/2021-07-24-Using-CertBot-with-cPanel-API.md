@@ -62,7 +62,7 @@ I've came up with the following calls against the API to test the communication 
 This is an easy way to verify general functionality, authentication, access permission etc.
 
 ```bash
-curl -H'Authorization: `cpanel` USER:API_KEY' 'https://my_domain.com:2083/execute/DNS/lookup?domain=my_domain.com'
+curl -H'Authorization: cpanel USER:API_KEY' 'https://my_domain.com:2083/execute/DNS/lookup?domain=my_domain.com'
 ```
 
 #### Get entire zone file
@@ -70,15 +70,15 @@ curl -H'Authorization: `cpanel` USER:API_KEY' 'https://my_domain.com:2083/execut
 This dumps the entire zone file as is.
 
 ```bash
-curl -H'Authorization: `cpanel` USER:API_KEY' 'https://my_domain.com:2083/json-api/`cpanel`?`cpanel`_jsonapi_user=user&`cpanel`_jsonapi_apiversion=2&`cpanel`_jsonapi_module=ZoneEdit&`cpanel`_jsonapi_func=fetchzone&domain=my_domain.com'
+curl -H'Authorization: cpanel USER:API_KEY' 'https://my_domain.com:2083/json-api/cpanel?cpanel_jsonapi_user=user&cpanel_jsonapi_apiversion=2&cpanel_jsonapi_module=ZoneEdit&cpanel_jsonapi_func=fetchzone&domain=my_domain.com'
 ```
 
 #### Add CNAME record
 
-The record name in this example is `le-test`.
+The record name in this example is `cname-test`.
 
 ```bash
-curl -H'Authorization: `cpanel` USER:API_KEY' 'https://my_domain.com:2083/json-api/`cpanel`?`cpanel`_jsonapi_user=user&`cpanel`_jsonapi_apiversion=2&`cpanel`_jsonapi_module=ZoneEdit&`cpanel`_jsonapi_func=add_zone_record&domain=my_domain.com&name=cname-test&type=CNAME&cname=www.other_domain.com'
+curl -H'Authorization: cpanel USER:API_KEY' 'https://my_domain.com:2083/json-api/cpanel?cpanel_jsonapi_user=user&cpanel_jsonapi_apiversion=2&cpanel_jsonapi_module=ZoneEdit&cpanel_jsonapi_func=add_zone_record&domain=my_domain.com&name=cname-test&type=CNAME&cname=www.other_domain.com'
 ```
 
 #### Add TXT record
@@ -86,7 +86,7 @@ curl -H'Authorization: `cpanel` USER:API_KEY' 'https://my_domain.com:2083/json-a
 The record name in this example is `le-test`.
 
 ```bash
-curl -H'Authorization: `cpanel` USER:API_KEY' 'https://my_domain.com:2083/json-api/`cpanel`?`cpanel`_jsonapi_user=user&`cpanel`_jsonapi_apiversion=2&`cpanel`_jsonapi_module=ZoneEdit&`cpanel`_jsonapi_func=add_zone_record&domain=my_domain.com&name=le-test&type=TXT&txtdata=1234567890ABCDEF'
+curl -H'Authorization: cpanel USER:API_KEY' 'https://my_domain.com:2083/json-api/cpanel?cpanel_jsonapi_user=user&cpanel_jsonapi_apiversion=2&cpanel_jsonapi_module=ZoneEdit&cpanel_jsonapi_func=add_zone_record&domain=my_domain.com&name=le-test&type=TXT&txtdata=1234567890ABCDEF'
 ```
 
 #### Get line number for specific name in zone file
@@ -96,7 +96,7 @@ In order to remove an entry we need to know first where that entry is located in
 Note: the name in the zone file is an FQDN including a trailing dot! So here the name to look up is `le-test.my_domain.com.`.
 
 ```bash
-curl -H'Authorization: `cpanel` USER:API_KEY' 'https://my_domain.com:2083/json-api/`cpanel`?`cpanel`_jsonapi_user=user&`cpanel`_jsonapi_apiversion=2&`cpanel`_jsonapi_module=ZoneEdit&`cpanel`_jsonapi_func=fetchzone_records&domain=my_domain.com&name=le-test.my_domain.com.&type=TXT'
+curl -H'Authorization: cpanel USER:API_KEY' 'https://my_domain.com:2083/json-api/cpanel?cpanel_jsonapi_user=user&cpanel_jsonapi_apiversion=2&cpanel_jsonapi_module=ZoneEdit&cpanel_jsonapi_func=fetchzone_records&domain=my_domain.com&name=le-test.my_domain.com.&type=TXT'
 ```
 
 #### Remove TXT record
@@ -104,5 +104,5 @@ curl -H'Authorization: `cpanel` USER:API_KEY' 'https://my_domain.com:2083/json-a
 When we know the number, the respective entry can be removed from the zone file.
 
 ```bash
-curl -H'Authorization: `cpanel` USER:API_KEY' 'https://my_domain.com:2083/json-api/`cpanel`?`cpanel`_jsonapi_user=user&`cpanel`_jsonapi_apiversion=2&`cpanel`_jsonapi_module=ZoneEdit&`cpanel`_jsonapi_func=remove_zone_record&domain=my_domain.com&line=59'
+curl -H'Authorization: cpanel USER:API_KEY' 'https://my_domain.com:2083/json-api/cpanel?cpanel_jsonapi_user=user&cpanel_jsonapi_apiversion=2&cpanel_jsonapi_module=ZoneEdit&cpanel_jsonapi_func=remove_zone_record&domain=my_domain.com&line=59'
 ```
