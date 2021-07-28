@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using Certbot with Interserver's cPanel API"
+title: "Using Certbot with InterServer's cPanel API"
 date: 2021-07-24 18:00 -0700
 categories: [Tutorials, APIs]
 tags: [cpanel, letsencrypt, certbot, interserver]
