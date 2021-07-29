@@ -2,6 +2,7 @@
 title: "Welcome at McFiscH's"
 date: 2021-07-23 18:00 -0700
 categories: [General]
+excerpt: "My name is Mario a.k.a. McFiscH, and I’m a SysAdmin, a Geek, a Casual Gamer, a Casual Musician, a Woodworker - oh, and a Dad, so there might be one or two puns and dad jokes appear in the blog. And since I’m German, they may even be more terrible than you’d expect…"
 ---
 > It's-a me, Mario!<br>
 > *Mario*
