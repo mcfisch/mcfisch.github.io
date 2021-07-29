@@ -48,7 +48,7 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-D3RN7B5B75"
-    anonymize_ip: true # default
+    anonymize_ip: true
 
 author:
   name   : "Mario Fischer"
