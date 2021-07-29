@@ -11,7 +11,7 @@ toc: true
 
 I need to remotely maintain DNS entries at my InterServer webhosting instance, and I want to use the `cPanel API v2` for that, because that's basically all InterServer, my web hosting provider, is providing access to.
 
-Link: [`cPanel` documentation](https://documentation.cpanel.net/display/DD/cPanel+API+2+Modules+-+ZoneEdit)
+Link: [cPanel documentation](https://documentation.cpanel.net/display/DD/cPanel+API+2+Modules+-+ZoneEdit)
 
 ## Current situation and difficulties
 
