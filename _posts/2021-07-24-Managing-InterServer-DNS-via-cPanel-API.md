@@ -1,5 +1,5 @@
 ---
-title: "Managing InterServer DNS with cPanel API"
+title: "Managing InterServer DNS via cPanel API"
 date: 2021-07-24T18:00:00-07:00
 categories: [Tutorials, APIs]
 tags: [cpanel, letsencrypt, certbot, interserver, dns]
