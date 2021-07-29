@@ -83,11 +83,9 @@ h2.archive__item_title a {
   .page__footer-follow {
     float: left;
     padding-top: 0.25em;
-    width: 50%;
   }
   .page__footer-copyright {
     float: right; // .footer::after has 'clear: both;' set
     margin-top: 0.75em;
-    width: 50%;
   }
 }
