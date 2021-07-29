@@ -44,11 +44,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-D3RN7B5B75"
-    anonymize_ip: true
+# Analytics
+#  - didn't work, adding as custom <head> instead
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "G-D3RN7B5B75"
+#     anonymize_ip: true
 
 author:
   name   : "Mario Fischer"
