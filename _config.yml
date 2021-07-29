@@ -7,7 +7,7 @@ url: "https://blog.mcfisch.com"
 # baseurl: ""
 twitter_username: systemfisch
 github_username: mcfisch
-repository: mcfisch/mm-test
+repository: mcfisch/mcfisch.github.io
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
