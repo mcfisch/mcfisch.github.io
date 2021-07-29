@@ -52,6 +52,16 @@ plugins:
 #     tracking_id: "G-D3RN7B5B75"
 #     anonymize_ip: true
 
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id: "MDEwOlJlcG9zaXRvcnkzODg5ODc1MjE="
+    category_name: "Announcements"
+    category_id: "DIC_kwDOFy96gc4B-fTH"
+    discussion_term: "pathname"  #(default), "url", "title", "og:title"
+    reactions_enabled: 1
+    theme: "preferred_color_scheme" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+
 author:
   name   : "Mario Fischer"
   avatar : "/assets/images/avatar.png"
