@@ -1,0 +1,55 @@
+---
+---
+
+@charset "utf-8";
+
+/* Definition/override of global variables before importing original stylesheets */
+$link-color: rgb(135, 10, 10);
+$font-zendots: "Zen Dots", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/*******************/
+/*  Custom Styles  */
+/*******************/
+  
+/* Blockquotes */
+blockquote {
+  font-style: normal; // this allows us to set a source in italic using markdown
+  border-left: 0.25em solid $link-color;
+}
+
+/* Site Title */
+.masthead__inner-wrap {
+  padding: 0.5em;
+}
+.site-title {
+  font-family: $font-zendots;
+  -webkit-text-stroke: 1px $link-color;
+  -webkit-text-fill-color: white;
+  font-size: 1.5em;
+  border: 2px solid $link-color;
+  border-radius: 5px;
+  padding: 0em 0.5em;
+}
+
+/* Adjusting links */
+a.current, i.fa-search {
+  color: $link-color;
+}
+h2.archive__item_title a {
+  font-size: 1em;
+  color: $link-color;
+}
+.toc .nav__title {
+  background: $link-color;
+}
+.greedy-nav .visible-links a:before {
+  background: $link-color;
+}
+
+/* Text font size */
+.page__content {
+  font-size: 0.9em;
+}
