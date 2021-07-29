@@ -51,5 +51,15 @@ h2.archive__item_title a {
 
 /* Text font size */
 .page__content {
-  font-size: 0.9em;
+  font-size: 0.8em;
+}
+
+/* Footer */
+.page__footer {
+  background: $link-color;
+}
+.page__footer footer {
+  margin-top: 0.25em;
+  max-width: 100%;
+  padding: 0 1em 0.25em;
 }
