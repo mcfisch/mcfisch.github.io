@@ -44,6 +44,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-D3RN7B5B75"
+    anonymize_ip: true # default
+
 author:
   name   : "Mario Fischer"
   avatar : "/assets/images/avatar.png"
