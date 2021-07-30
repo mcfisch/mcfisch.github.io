@@ -32,7 +32,7 @@ $font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Seg
 .greedy-nav a:hover {
   color: $link-color-contrast;
 }
-.greedy-nav .visible-links a:before {
+.greedy-nav .visible-links a {
   background: $link-color-contrast;
 }
 
