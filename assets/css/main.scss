@@ -44,6 +44,9 @@ $font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Seg
 .greedy-nav .visible-links a:before {
   background: $link-color-contrast;
 }
+.greedy-nav .hidden-links a {
+  color: $link-color
+}
 i.fa-search {
   color: $link-color-contrast;
 }
