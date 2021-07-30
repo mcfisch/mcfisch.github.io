@@ -48,7 +48,7 @@ $font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Seg
 /* disabled
   font-family: $font-zendots;
   -webkit-text-stroke: 1px $link-color;
-  -webkit-text-fill-color: white;
+  -webkit-text-fill-color: $link-color-contrast;
   border: 2px solid $link-color;
   font-size: 1.5em;
   border-radius: 5px;
@@ -60,7 +60,7 @@ $font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Seg
   border: 2px solid $link-color-contrast;
   font-size: 1.5em;
   background: $link-color;
-  color: white;
+  color: $link-color-contrast;
   border-radius: 2px;
   padding: 0em 0.25em;
   height: 2em;
