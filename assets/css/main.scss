@@ -29,10 +29,10 @@ $font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Seg
 .masthead, .greedy-nav {
   background-color: $link-color;
 }
-.greedy-nav a:hover {
+.greedy-nav a {
   color: $link-color-contrast;
 }
-.greedy-nav .visible-links a {
+.greedy-nav .visible-links a:hover {
   background: $link-color-contrast;
 }
 
