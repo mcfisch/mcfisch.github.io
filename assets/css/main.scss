@@ -5,6 +5,7 @@
 
 /* Definition/override of global variables before importing original stylesheets */
 $link-color: rgb(90, 0, 0);
+$masthead-link-color: $link-color;
 $link-color-contrast: white;
 $font-zendots: "Zen Dots", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -17,8 +18,12 @@ $font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Seg
 /*******************/
   
 /* Header */
+.masthead {
+  height: 3em;
+}
 .masthead__inner-wrap {
   padding: 0.5em;
+  height: 3em;
 }
 .navicon, .navicon:before, .navicon:after {
   background: $link-color-contrast;
