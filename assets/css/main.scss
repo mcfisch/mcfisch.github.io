@@ -23,7 +23,7 @@ $font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Seg
   height: 3em;
 }
 .masthead__inner-wrap {
-  padding: 0.5em;
+  padding: 0 0.5em 0 0;
   height: 3em;
 }
 .navicon, .navicon:before, .navicon:after {
@@ -63,8 +63,12 @@ $font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Seg
   background: $link-color;
   color: $link-color-contrast;
   border-radius: 2px;
-  padding: 0em 0.25em;
+  padding: 0.2em 0.5em;
   height: 2em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 1px 2px $link-color;
 }
 i.fa-search {
   color: $link-color-contrast;
