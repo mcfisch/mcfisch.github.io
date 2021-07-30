@@ -44,6 +44,14 @@ $font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Seg
 .greedy-nav .visible-links a:before {
   background: $link-color-contrast;
 }
+i.fa-search {
+  color: $link-color-contrast;
+}
+.search__toggle {
+  color: $link-color-contrast;
+  height: auto;
+}
+
 /* Site Title */
 .site-title {
 /* disabled
@@ -70,12 +78,10 @@ $font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Seg
   top: 0.25em;
   left: 0.25em;
 }
-i.fa-search {
-  color: $link-color-contrast;
-}
-.search__toggle {
-  color: $link-color-contrast;
-  height: auto;
+
+/* Sidebar */
+.sidebar>* {
+  margin-top: 2em;
 }
 
 /* Blockquotes */
@@ -123,7 +129,7 @@ h2.archive__item_title a {
 }
 @media screen and (min-width: 800px) {
   .page__footer {
-    height: 1em;
+    height: auto;
   }
   .page__footer-follow {
     float: left;
