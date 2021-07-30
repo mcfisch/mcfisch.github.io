@@ -5,7 +5,9 @@
 
 /* Definition/override of global variables before importing original stylesheets */
 $link-color: rgb(90, 0, 0);
+$link-color-contrast: white;
 $font-zendots: "Zen Dots", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -14,33 +16,60 @@ $font-zendots: "Zen Dots", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe U
 /*  Custom Styles  */
 /*******************/
   
+/* Header */
+.masthead__inner-wrap {
+  padding: 0.5em;
+}
+.navicon, .navicon:before, .navicon:after {
+  background: $link-color-contrast;
+}
+.greedy-nav__toggle:hover {
+  background-color: $link-color-contrast;
+}
+.masthead, .greedy-nav {
+  background-color: $link-color;
+}
+.greedy-nav a:hover {
+  color: $link-color-contrast;
+}
+.greedy-nav .visible-links a:before {
+  background: $link-color-contrast;
+}
+
+/* Site Title */
+.site-title {
+/* disabled
+  font-family: $font-zendots;
+  -webkit-text-stroke: 1px $link-color;
+  -webkit-text-fill-color: white;
+  border: 2px solid $link-color;
+  font-size: 1.5em;
+  border-radius: 5px;
+  padding: 0em 0.5em;
+*/
+  font-family: $font-keaniaone;
+  -webkit-text-stroke: 1px $link-color-contrast;
+  -webkit-text-fill-color: $link-color;
+  border: 2px solid $link-color;
+  font-size: 1.5em;
+  background: $link-color;
+  color: white;
+  border-radius: 2px;
+  padding: 0em 0.25em;
+  height: 2em;
+}
+i.fa-search {
+  color: $link-color-contrast;
+}
+
 /* Blockquotes */
 blockquote {
   font-style: normal; // this allows us to set a source in italic using markdown
   border-left: 0.25em solid $link-color;
 }
 
-/* Header */
-.masthead__inner-wrap {
-  padding: 0.5em;
-}
-.navicon, .navicon:before, .navicon:after {
-  background: black;
-}
-
-/* Site Title */
-.site-title {
-  font-family: $font-zendots;
-  -webkit-text-stroke: 1px $link-color;
-  -webkit-text-fill-color: white;
-  font-size: 1.5em;
-  border: 2px solid $link-color;
-  border-radius: 5px;
-  padding: 0em 0.5em;
-}
-
 /* Adjusting links */
-a.current, i.fa-search {
+a.current {
   color: $link-color;
 }
 h2.archive__item_title a {
@@ -48,9 +77,6 @@ h2.archive__item_title a {
   color: $link-color;
 }
 .toc .nav__title {
-  background: $link-color;
-}
-.greedy-nav .visible-links a:before {
   background: $link-color;
 }
 .pagination--pager:hover {
