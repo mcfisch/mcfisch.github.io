@@ -30,10 +30,10 @@ $font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Seg
   background: $link-color-contrast;
 }
 .greedy-nav__toggle:hover {
-  background-color: $link-color-contrast;
+  background: $link-color-contrast;
 }
 .masthead, .greedy-nav {
-  background-color: $link-color;
+  background: $link-color;
 }
 .greedy-nav a {
   color: $link-color-contrast;
@@ -61,17 +61,21 @@ $font-keaniaone: "Keania One", -apple-system, BlinkMacSystemFont, "Roboto", "Seg
   border: 2px solid $link-color-contrast;
   font-size: 1.5em;
   background: $link-color;
+  box-shadow: 0 0 1px 2px $link-color;
   color: $link-color-contrast;
   border-radius: 2px;
   padding: 0.2em 0.5em;
   height: 2em;
   position: absolute;
-  top: 0;
-  left: 0;
-  box-shadow: 0 0 1px 2px $link-color;
+  top: 0.25em;
+  left: 0.25em;
 }
 i.fa-search {
   color: $link-color-contrast;
+}
+.search__toggle {
+  color: $link-color-contrast;
+  height: auto;
 }
 
 /* Blockquotes */
