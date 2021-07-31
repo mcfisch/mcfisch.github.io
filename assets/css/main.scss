@@ -57,7 +57,7 @@ i.fa-search {
   height: auto;
 }
 
-/* Site Title */
+/* Site Title Logo */
 .site-title {
 /* disabled
   font-family: $font-zendots;
@@ -69,8 +69,6 @@ i.fa-search {
   padding: 0em 0.5em;
 */
   font-family: $font-kodchasan;
-  // -webkit-text-stroke: 1px $link-color;
-  // -webkit-text-fill-color: $link-color-contrast;
   border: 2px solid $link-color-contrast;
   font-size: 1.5em;
   font-weight: bold;
@@ -83,6 +81,9 @@ i.fa-search {
   position: absolute;
   top: 0.25em;
   left: 0.25em;
+}
+.site-title:hover, .site-title:active {
+  color: $link-color-contrast;
 }
 
 /* Sidebar */
