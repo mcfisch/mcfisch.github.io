@@ -43,7 +43,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - premonition
 
 # Analytics
 #  - didn't work, adding as custom <head> instead

@@ -4,16 +4,6 @@ title: "About"
 excerpt: "It's-a me, Mario!"
 toc: false
 ---
-> It's-a me, Mario!<br>
-> *Mario*
-
----
-
-> citations "Mario" [ cite = "Mario" ]
-> It's-a me, Mario!<br>
-
----
-
 
 > It's-a me, Mario!<br>
 > *Mario*
