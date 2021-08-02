@@ -23,7 +23,8 @@ On newer devices that is possible with the `resize2fs` command (`resize2fs /dev/
 The process gneeds to take place in a recovery like [TWRP](https://twrp.me/), either in the integrated terminal, or through ADB - which for most people should be the more comfortable way.
 On some older versions of TWRP the issue seems not to exist as the menu-controlled formatting will leave some space at the end of the partition, but at least on `v3.5.2_9` this isn't the case.
 
-Note: **This will wipe your device, including the internal storage (`/data/media`) - so make sure to backup everything before following through with this procedure!**
+> Warning: This will wipe your device, including the internal storage (`/data/media`) - so make sure to backup everything before following through with this procedure!
+{: .notice--danger }
 
 ## Find the correct device
 
