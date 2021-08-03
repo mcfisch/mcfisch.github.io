@@ -4,6 +4,8 @@ date: 2021-08-02 9:00 -0700
 categories: [Android, Encryption]
 tags: [android, encryption, filesystem]
 excerpt: "On some Android devices (i.e. Moto G5 Plus a.k.a. `Potter`) device encryption doesn't work when installing a custom ROM, because the entire `/data` partition was used when it was formatted."
+classes: wide
+toc: true
 ---
 
 On some Android devices (i.e. Moto G5 Plus a.k.a. `Potter`) device encryption doesn't work when using custom ROMs, because the entire `/data` partition was used when it was formatted.
