@@ -152,3 +152,9 @@ p>code, a>code, li>code, figcaption>code, td>code {
     margin-top: 0.75em;
   }
 }
+/* Don't increase text size further */
+@media (min-width: 80em) {
+  html {
+      font-size: 20px;
+  }  
+}
