@@ -81,17 +81,21 @@ i.fa-search {
 }
 @media (min-width: 64em) {
   .sidebar {
-    width: calc(190px - 1em);
+    width: calc(180px - 1em);
   }
   .sticky>* {
     text-align: -webkit-center;
   }
-}
-@media (min-width: 80em) {
-  .sidebar {
-    width: calc(190px - 1em);
+  .author__urls {
+    margin: 0 1.5em;
+    text-align: -webkit-left;
   }
 }
+// @media (min-width: 80em) {
+//   .sidebar {
+//     width: calc(180px - 1em);
+//   }
+// }
 
 /* Blockquotes */
 blockquote {
