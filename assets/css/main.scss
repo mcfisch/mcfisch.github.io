@@ -90,9 +90,14 @@ i.fa-search {
 .sidebar>* {
   margin-top: 2em;
 }
-@media (min-width: 80em), (min-width: 64em) {
+@media (min-width: 64em) {
   .sidebar {
-      width: calc(190px - 1em);
+    width: calc(190px - 1em);
+  }
+}
+@media (min-width: 80em) {
+  .sidebar {
+    width: calc(190px - 1em);
   }
 }
 
