@@ -34,6 +34,7 @@ $font-kodchasan: "Kodchasan", -apple-system, BlinkMacSystemFont, "Roboto", "Sego
 }
 .masthead, .greedy-nav {
   background: $link-color;
+  font-family: $font-kodchasan;
 }
 .greedy-nav a, .greedy-nav a:hover {
   color: $link-color-contrast;
