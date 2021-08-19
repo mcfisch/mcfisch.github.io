@@ -28,7 +28,6 @@ The following steps are a quote directly from synocommunity.com, as it describes
 ><br><br>
 >Step 3<br>
 >Go back to the Package Center and enjoy SynoCommunity's packages in the Community tab.
->*synocommunity.com*
 {: .notice}
 
 ## In case of a problem
