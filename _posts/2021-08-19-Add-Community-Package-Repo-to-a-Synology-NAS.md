@@ -34,7 +34,7 @@ The following steps are a quote directly from synocommunity.com, as it describes
 
 ### Check the URL
 
-By the time of writing this post the URL of the Syno Community package repository was https://packages.synocommunity.com/. To verify this is still correct visit the [Syno Community page](https://synocommunity.com) and check the instructions near the bottom. If the site becomes unavailable search the internet for `add synocommunity to synology` or so.
+By the time of writing this post the URL of the Syno Community package repository was `https://packages.synocommunity.com/`. To verify this is still correct visit the [Syno Community page](https://synocommunity.com) and check the instructions near the bottom. If the site becomes unavailable search the internet for `add synocommunity to synology` or so.
 
 >**Note:**<br>
 >The repo URL can't be visited by a regular browser and will show an error!
