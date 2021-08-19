@@ -48,7 +48,7 @@ Make sure the trustlevel is set correctly as instructed in `Step 1` above. Other
 
 In case the community repo is down you can try finding the desired package somewhere else. For instance there is a fork of the community repo where the account owner builds releases of some of the packages: [publicarray/spksrc on Github](https://github.com/publicarray/spksrc/releases). There are other sources available online as well. 
 
-To install a package manually copy the `spk` file to your Synology device and install it by running:
+To install a package manually copy the `.spk` file to your Synology device and install it by running:
 
 ```bash
 sudo synopkg install <path to .spk file>
