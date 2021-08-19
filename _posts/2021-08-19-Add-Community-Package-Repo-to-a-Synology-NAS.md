@@ -5,7 +5,7 @@ categories: [Synology]
 tags: [synology]
 excerpt: "This shows how to make the Syno Community package repository available to a Synology NAS."
 # toc: true
-# classes: single # single, wide, splash
+classes: wide
 ---
 
 This shows how to add the Syno Community packages to the list of package sources in a Synology NAS. The extra packages come in handy if one for instance needs a tool, that Synology only provides as part of a bigger package (i.e. `git`), or one they don't provide at all.
@@ -38,8 +38,8 @@ The following steps are a quote directly from synocommunity.com, as it describes
 By the time of writing this post the URL of the Syno Community package repository was https://packages.synocommunity.com/. To verify this is still correct visit the [Syno Community page](https://synocommunity.com) and check the instructions near the bottom. If the site becomes unavailable search the internet for `add synocommunity to synology` or so.
 
 >**Note:**<br>
->the repo URL can't be visited by a regular browser and will show an error!
-{: .notice--primary}
+>The repo URL can't be visited by a regular browser and will show an error!
+{: .notice}
 
 ### Verify the trust level
 
