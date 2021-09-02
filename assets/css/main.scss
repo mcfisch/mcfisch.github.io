@@ -44,6 +44,7 @@ $font-kodchasan: "Kodchasan", -apple-system, BlinkMacSystemFont, "Roboto", "Sego
 }
 .greedy-nav .visible-links a:before {
   background: $link-color-contrast;
+  height: 2px;
 }
 .greedy-nav .hidden-links a {
   color: $link-color
