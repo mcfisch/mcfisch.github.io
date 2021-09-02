@@ -98,6 +98,9 @@ blockquote {
   font-style: normal; // this allows us to set a source in italic using markdown
   border-left: 0.25em solid $link-color;
 }
+.notice, .notice--primary, .notice--info, .notice--warning, .notice--success, .notice--danger {
+  font-size: 0.9em !important; // overriding the 0.75em default for all notices
+}
 
 /* Adjusting links */
 a.current {
