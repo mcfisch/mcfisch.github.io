@@ -3,7 +3,7 @@ title: "WSL Crash on Windows 10"
 date: 2021-09-01 21:00 -0700
 categories: [Windows, VM]
 tags: [Windows, WSL, VM, "Windows Subsystem for Linux", Hyper-V, CFG, "Control Flow Guard"]
-excerpt: "When your `Windows Subsystem for Linux` VM is crashing with no apparent error messages, it could be caused by a Windows security setting that blocks certain DLL calls."
+excerpt: "When your `Windows Subsystem for Linux` VM crashes with no apparent error message, it could be due to a Windows security setting that blocks certain DLL calls."
 # toc: true
 classes: wide
 ---
