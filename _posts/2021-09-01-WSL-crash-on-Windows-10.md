@@ -16,7 +16,7 @@ This is one of those issues I ended up writing about because I had a hard time f
 
 I recently attempted to install the latest version of `Windows Susbsystem for Linux (WSL)` and ran into multiple issues.
 
-The first issues were related to having disabled all things Hyper-V on my system in the past as it was causing problems with VMware and VirtualBox. Now that I wanted to use WSL I had to re-enable everything which wasn't too difficulet, just a little tedious as I had to find all the places where I needed to turn things back on (I'm looking at you, `bcedit`!...).
+The first issues were related to having disabled all things Hyper-V on my system in the past as it was causing problems with VMware and VirtualBox. Now that I wanted to use WSL I had to re-enable everything which wasn't too difficult, just a little tedious as I had to find all the places where I needed to turn things back on (I'm looking at you, `bcedit`!...).
 
 Once that was done I encountered the weird issue this post is about:
 
@@ -42,7 +42,7 @@ The `System` log contained only the following error message:
 >Error 7034: The Hyper-V Host Compute Service service terminated unexpectedly.  It has done this 8 time(s).
 {: .notice--primary}
 
-In the `Administrative Events` log - one that Windows assembles automatically to reduce noise for the system's administrator - it becomes more apparent that there is something scheduled on my system that keeps killing the VM. All related log entries shared the same time pattern I mentioned above.
+In the `Administrative Events` view - one that Windows assembles automatically to reduce noise for the system's administrator - it becomes more apparent that there is something scheduled on my system that keeps killing the VM. All related log entries shared the same time pattern I mentioned above.
 
 ![Screen_Shot_03_Event_Log_02]({{ "/assets/images/2021-09-01-WSL-crash-on-Windows-10/Screen_Shot_03_Event_Log_02.png" | relative_url }}){: .align-center}
 
@@ -82,8 +82,8 @@ Then click `App & browser control` and scroll down to `Exploit protection`. Clic
 
 Now you'll see two tabs, switch to the one named `Program settings` and scroll all the way down to where the following two binaries are listed:
 
-- `C:\Windows\Sustem32\vmcompute.exe`
-- `C:\Windows\Sustem32\vmwp.exe`
+- `C:\Windows\System32\vmcompute.exe`
+- `C:\Windows\System32\vmwp.exe`
 
 ![Screen_Shot_06_Exploit_protection]({{ "/assets/images/2021-09-01-WSL-crash-on-Windows-10/Screen_Shot_06_Exploit_protection.png" | relative_url }}){: .align-center}
 
@@ -93,8 +93,8 @@ Click `Edit` for both of them and turn off the `Control flow guard (CFG)` settin
 
 ![Screen_Shot_08_CFG_02]({{ "/assets/images/2021-09-01-WSL-crash-on-Windows-10/Screen_Shot_08_CFG_02.png" | relative_url }}){: .align-center}
 
-Now restart the VM to take over the changes. If it doesn't work right away verify these two files have no running instances before starting the VM again.
+Now restart the VM to apply the changes. If it doesn't work right away verify these two files have no running instances before starting the VM again.
 
 A note about security:
 
-I don't know exactly about the security implication of turning off this setting, but keep in mind that this is a `Windows Defender` integrated security feature that is meant to prevent memory corruption, e.g. in the case of a ransomware trying to cause a buffer overflow. So change these settings on your own risk and be careful about what software you run on your computer and inside your VM's. To learn more about `CFG` got to the [Microsoft documentation for Control Flow Guard](https://docs.microsoft.com/en-us/windows/win32/secbp/control-flow-guard).
+I don't know exactly about the security implication of turning off this setting, but keep in mind that this is a `Windows Defender` integrated security feature that is meant to prevent memory corruption, e.g. in the case of a ransomware trying to cause a buffer overflow. So change these settings on your own risk and be careful about what software you run on your computer and inside your VM's. To learn more about `CFG` go to the [Microsoft documentation for Control Flow Guard](https://docs.microsoft.com/en-us/windows/win32/secbp/control-flow-guard).
