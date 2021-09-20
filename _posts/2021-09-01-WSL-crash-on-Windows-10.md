@@ -8,7 +8,7 @@ excerpt: "When your `Windows Subsystem for Linux` VM crashes with no apparent er
 classes: wide
 ---
 
-This is one of those issues I ended up writing about because I had a hard time finding a solution for it as not many people seem to experience this under these specific circumstances.
+This is one of those issues I ended up writing about because I had a hard time finding a solution for it as not many people seem to experience this under these specific circumstances. So I hope this makes somebody else's life easier in the future, too.
 
 >**TL;DR:**<br><br>
 >If `Control Flow Guard` causes your `Windows Subsystem for Linux` VM to crash by prohibiting certain DLL calls, turn it off for the Hyper-V related processes on your system.
