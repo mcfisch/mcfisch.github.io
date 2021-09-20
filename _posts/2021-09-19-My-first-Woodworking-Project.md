@@ -10,6 +10,7 @@ layout: single
 header:
   image: /assets/images/2021-09-19-My-first-Woodworking-Project/outdoor_table_header.jpg
   teaser: /assets/images/2021-09-19-My-first-Woodworking-Project/finished_and_in_place_th2.jpg
+  og_image: /assets/images/2021-09-19-My-first-Woodworking-Project/finished_and_in_place_th2.jpg
 gallery_parts_cut_and_drilled:
   - url: /assets/images/2021-09-19-My-first-Woodworking-Project/all_parts_cut_and_drilled.jpg
     image_path: /assets/images/2021-09-19-My-first-Woodworking-Project/all_parts_cut_and_drilled_th.jpg
