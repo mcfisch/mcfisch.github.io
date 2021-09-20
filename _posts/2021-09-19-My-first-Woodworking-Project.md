@@ -7,6 +7,7 @@ excerpt: "My very first woodworking project: a simple outdoor coffee table made 
 toc: true
 layout: single
 # classes: wide
+image: /assets/images/2021-09-19-My-first-Woodworking-Project/finished_and_in_place_th2.jpg
 header:
   image: /assets/images/2021-09-19-My-first-Woodworking-Project/outdoor_table_header.jpg
   teaser: /assets/images/2021-09-19-My-first-Woodworking-Project/finished_and_in_place_th2.jpg
