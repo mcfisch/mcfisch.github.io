@@ -94,6 +94,11 @@ i.fa-search {
   }
 }
 
+/* Center items, i.e. in galleries */
+.justify-content {
+  justify-content: center;
+}
+
 /* Blockquotes */
 blockquote {
   font-style: normal; // this allows us to set a source in italic using markdown
