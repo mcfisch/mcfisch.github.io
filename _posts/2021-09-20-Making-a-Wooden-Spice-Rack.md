@@ -41,7 +41,7 @@ The project I am writing about today came from an idea my wife had. Back in Dece
 
 I had already played around with different CAD programs in the past, but never really got the hang of it. But now I needed to come up with a plan that would allow to not just give a cleat vision of the anticipated result, but also would allow to verify all measurements are actually correct. 
 
-At the end this spice rack build would have to follow specific measurements that ensure it would fit in its space when finished, as well as holding the items it was made for in the optimal way. Also I wanted no viible joints, as well as no screws nor nails.
+At the end this spice rack build would have to follow specific measurements that ensure it would fit in its space when finished, as well as holding the items it was made for in the optimal way. Also I wanted no visible joints, as well as no screws nor nails.
 
 # Preparation
 
@@ -53,7 +53,7 @@ We had to start with gathering the exact size the spice rack would have, as well
 For the materials I decided to go with Vertical Grain Douglas Fir, as this is what our friends kitchen is made of, and some aluminum bars to accentuate the wood as well as matching the handles of the kitchen's appliances (the pictures only show it in our own kitchen, before we gave it away). 
 The finish was going to be semi-glossy polyurethane, which allows for a nice, subtle sheen that wont catch fingerprints or scratches easily. Since this is an oil based finish it would also highlight the wood grain nicely.
 
-This was the first time that I went to a dedicated lumber store to get some nice wood for a build. So far I only got mainly construction grade lumber and sheet goods from the big box store, or scrabs from a construction site. This time I needed something that fits exactly what I had in mind, so I got two really nice boards of Vertical Grain Douglas Fir. The Aluminum bars I got at a local industrial hardware and supply store.
+This was the first time that I went to a dedicated lumber store to get some nice wood for a build. So far I only got mainly construction grade lumber and sheet goods from the big box store, or scraps from a construction site. This time I needed something that fits exactly what I had in mind, so I got two really nice boards of Vertical Grain Douglas Fir. The Aluminum bars I got at a local industrial hardware and supply store.
 
 {% include gallery id="gallery_vertical_grain_douglas_fir" caption="Two nice boards of Vertical Grain Douglas Fir from a local lumber store, with the printout of the SketchUp model above" %}{: .justify-content}
 
@@ -63,7 +63,7 @@ So when the sketches were ready I cut all pieces, marked them so I wouldn't mix 
 
 {% include gallery id="gallery_parts_cut_and_labeled" caption="All parts cut and labeled" %}
 
-Due to the boards being just 1/4 and 1/2 inch slim I decided to go with mortise and tenon joints - which I never really did before, so there was some more learning involved here as well. The mortises and tenons I've cut with a small routerbit first, leaving enough room to correct the proper seating of the shelves and rails by hand. Of course I messed some of the joints up, but not so bad that I would have had to start over. All issues I was able to fix with glue, shims and more sanding.
+Due to the boards being just 1/4 and 1/2 inch slim I decided to go with mortise and tenon joints - which I never really did before, so there was some more learning involved here as well. The mortises and tenons I've cut with a small router bit first, leaving enough room to correct the proper seating of the shelves and rails by hand. Of course I messed some of the joints up, but not so bad that I would have had to start over. All issues I was able to fix with glue, shims and more sanding.
 
 The aluminum bars I put in place by sticking them onto wooden dowels, that I've glued into the side pieces.
 
@@ -73,13 +73,13 @@ When all pieces finally fit together, I did some sanding, making sure all surfac
 
 # Finish
 
-This was also the first time I've used polyurethane as a finish. It was easier than I've expected, but still frustrating at times, especially when trying to put it on joint pieces and around the aluminum bars. But it worked out, though after that I started thinning my poly for using it on other projects. When the polyurethane was fully cured I rubbed it with some scruibbing sponges to git it a little polish, and worked out pretty well, too.
+This was also the first time I've used polyurethane as a finish. It was easier than I've expected, but still frustrating at times, especially when trying to put it on joint pieces and around the aluminum bars. But it worked out, though after that I started thinning my poly for using it on other projects. When the polyurethane was fully cured I rubbed it with some scrubbing sponges to give it a little polish, and that worked out pretty well, too.
 
 {% include gallery id="gallery_finishing_with_poly" caption="The spice rack with three layers of polyurethane applied" %}
 
 # Conclusion
 
-This was another build where I've done many things for the first time: using SketchUp, planning ahead throroughly, buying special wood just for this project, and using polyurethane for the finish. Also thios was the first item I've build for somebody outside of our household.
+This was another build where I've done many things for the first time: using SketchUp, planning ahead thoroughly, buying special wood just for this project, and using polyurethane for the finish. Also this was the first item I've build for somebody outside of our household.
 
 {% include gallery id="gallery_finished_spice_rack" caption="The finished spice rack, demoed in our kitchen" %}
 
