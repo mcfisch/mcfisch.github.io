@@ -170,7 +170,7 @@ As the final finish I've used a very thin, water-based clear coat, a satin polyu
 
 ## The hardware
 
-For the hooks I predrilled some small holes in the front of the board - unfortunately a little too tight. This resulted in one of the screws that hold the hooks in place braking off, forcing me to drill the tip out from the back of the board. Luckily it didn't make too much of a mess, so the slightly larger replacement screw went in just fine.
+For the hooks I predrilled some small holes in the front of the board - unfortunately a little too tight. This resulted in one of the screws, that hold the hooks in place, breaking off, forcing me to drill the tip out from the back of the board. Luckily it didn't make too much of a mess, so the slightly larger replacement screw went in just fine.
 
 The back has two picture holders screwed on which go onto hooks when mounting the key rack on the wall. The Vase holder is just screwed to the board from behind.
 
