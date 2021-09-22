@@ -68,8 +68,8 @@ gallery_stain:
 gallery_finish:
   - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finish.jpg
     image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finish-350.jpg
-    alt: "Restaining the front for the second or third time"
-    title: "Restaining the front for the second or third time"
+    alt: "Re-staining the front for the second or third time"
+    title: "Re-staining the front for the second or third time"
 gallery_key_rack_finished:
   - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finished.jpg
     image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finished-350.jpg
@@ -90,9 +90,9 @@ I did build a small stationary planer, made from an electric handheld planer and
 # Material
 
 [![Pine strips cut from 2x4's](/assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_strips-350.jpg)](/assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_strips-1000.jpg){: .align-right}
-As the back of the key rack I chose a piece of MDF that I had laying around, and planned on glueing a layer of pieces of pine that were glued together to mimic the look of a hardwood floor - kind of. The frame that I wanted to put around was going to consist of leftover pieces of mahogany from when I restaurated a garden bench for kids. 
+As the back of the key rack I chose a piece of MDF that I had laying around, and planned on glueing a layer of pieces of pine that were glued together to mimic the look of a hardwood floor - kind of. The frame that I wanted to put around was going to consist of leftover pieces of mahogany from when I restored a garden bench for kids. 
 
-The hooks I've ordererd from a hardware store, and the vase is a regular mason jar I got from my wife.
+The hooks I've ordered from a hardware store, and the vase is a regular mason jar I got from my wife.
 
 One change I had to do later was to swap the MDF out for some Plywood as the MDF wasn't strong enough to prevent the laminated board from warping (*sigh*).
 
@@ -109,7 +109,7 @@ To glue up the whole thing I put everything on a sheet of plastic food wrap, so 
 
 ## The back
 
-As I've mentioned above I first tried to use 1/4in MDF as a backing board, but that *backfired* (I did introduce myself as a Dad, warning of the unevitable puns and jokes, right?): it didn't prevent the laminated board from warping/cupping. So I actually had to undo the first attempt and then redo it with another backing board, this time with a piece of very stable plywood that I got from a construction site. This held up much better, though it also made the board almost 1/4 of an inch thicker (1/2in ply vs. 1/4in MDF)
+As I've mentioned above I first tried to use 1/4in MDF as a backing board, but that *backfired* (I did introduce myself as a Dad, warning of the inevitable puns and jokes, right?): it didn't prevent the laminated board from warping/cupping. So I actually had to undo the first attempt and then redo it with another backing board, this time with a piece of very stable plywood that I got from a construction site. This held up much better, though it also made the board almost 1/4 of an inch thicker (1/2in ply vs. 1/4in MDF)
 
 After the glue-up was done I've cute the whole board to size, giving it its final rectangular shape and pushed it through the plane to make sure the edges are square (basically turning the planer into a jointer).
 
@@ -120,7 +120,7 @@ After the glue-up was done I've cute the whole board to size, giving it its fina
 
 For the frame I've cut some leftover boards into strips about twice as thick as the board, so that the frame would have the board recessed, giving it a nice three-dimensional look. But the frame shouldn't stick out so much that it would get in the way of things hanging on the hooks - or the vase.
 
-To connect the pieces of the frame I chose finger joints, cut on the table saw with a simple jig I've made from some plywood scrabs, and a cross cut sled. This was almost as exciting as running the pine and mahogany strips through my DIY planer.
+To connect the pieces of the frame I chose finger joints, cut on the table saw with a simple jig I've made from some plywood scraps, and a cross cut sled. This was almost as exciting as running the pine and mahogany strips through my DIY planer.
 
 {% include gallery id="gallery_frame" caption="Dialing and testing the saw, then test fitting, and finally gluing up the frame" %}
 
@@ -142,7 +142,7 @@ The color of the frame I liked as it was, but the very bright pine needed someth
 
 ### First attempt
 
-Unfortunately I didn't know about pre-stain or wood conditioner, so of course this first try didn't quite look even close to what I had in mind. It looked very blotchy and uneven. So I took to the sander and sanded almost all of the stain off. In some of the joints between the indvidual strips the stain wouldn't fully go away so I left it at that. Later this turned out to be a good decision...
+Unfortunately I didn't know about pre-stain or wood conditioner, so of course this first try didn't quite look even close to what I had in mind. It looked very blotchy and uneven. So I took to the sander and sanded almost all of the stain off. In some of the joints between the individual strips the stain wouldn't fully go away so I left it at that. Later this turned out to be a good decision...
 
 ### Second attempt
 
@@ -156,13 +156,13 @@ Somehow I managed to scratch the surface so badly, that I again had to sand it, 
 
 *Rinse and repeat*. Applying the conditioner again, then the stain, this time being **really** careful not to damage anything, handling the board with kid gloves. And this time it worked out very well. Also it turned out, that due to the seems between the pine strips having gotten more stain than the faces they made each strip stand out on its own, letting them look more distinguished. It also seem to make the faces look lighter, so the overall appearance gets closer to that of the frame. On top of that the little bit of stain that remained in the grain after sanding off the first two attempts also made the grain pop a little more than it would have with just one layer.
 
-{% include gallery id="gallery_stain" caption="Restaining the front for the second or third time" %}{: .justify-content}
+{% include gallery id="gallery_stain" caption="Re-staining the front for the second or third time" %}{: .justify-content}
 
 Though the vase holder didn't look as bad I decided to give it another layer of stain, but without sanding the first one of. This made it look darker than the board it was going to be mounted to, but that was fine with me, it makes for a nice accent.
 
 ## The finish
 
-Befor putting on the clear coat I sanded all pieces to break the edges and round of the corners, and except for the front sanded all remaining surfaces really smooth.
+Before putting on the clear coat I sanded all pieces to break the edges and round of the corners, and except for the front sanded all remaining surfaces really smooth.
 
 As the final finish I've used a very thin, water-based clear coat, a satin polyurethane, that went onto the pieces very easily - and only needed 2 coats to give the look that I was going for. It has a very little sheen to it, just enough to make the wood not look flat, but also preserved the colors very well.
 
@@ -170,7 +170,7 @@ As the final finish I've used a very thin, water-based clear coat, a satin polyu
 
 ## The hardware
 
-For the hooks I predrilled some small holes in the front of the board - unfortunately a little too tight. This resulted in one of the screws, that hold the hooks in place, breaking off, forcing me to drill the tip out from the back of the board. Luckily it didn't make too much of a mess, so the slightly larger replacement screw went in just fine.
+For the hooks I pre-drilled some small holes in the front of the board - unfortunately a little too tight. This resulted in one of the screws, that hold the hooks in place, breaking off, forcing me to drill the tip out from the back of the board. Luckily it didn't make too much of a mess, so the slightly larger replacement screw went in just fine.
 
 The back has two picture holders screwed on which go onto hooks when mounting the key rack on the wall. The Vase holder is just screwed to the board from behind.
 
