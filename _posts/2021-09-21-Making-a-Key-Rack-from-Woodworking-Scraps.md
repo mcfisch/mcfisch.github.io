@@ -2,8 +2,8 @@
 title: "Making a Key Rack from Woodworking Scraps"
 date: 2021-09-21 12:00 -0700
 categories: [Woodworking]
-tags: [Woodworking, Furniture]
-excerpt: "In this woodworking build I've used scraps from other projects to make a key rack with built-in flower vase."
+tags: [Woodworking, Scraps]
+excerpt: "In this woodworking build I've used scraps from other projects to make a key rack with a built-in flower vase."
 toc: true
 layout: single
 # classes: wide
