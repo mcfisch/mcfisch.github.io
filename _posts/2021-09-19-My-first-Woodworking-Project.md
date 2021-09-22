@@ -60,7 +60,7 @@ The instructions were easy to understand and repeat, a circular or miter saw, a 
 
 ## Color
 
-One of the cutoffs I used for a colored deckstain "demo", and my better half eventully decided to go with the rust-like red that you can see on the pictures (I liked both colors equally anyway). So I applied that to the table, and - voila - here we have a nice coffee table, that completes our deck lounge since March 2020. The deck stain seals the wood off to protect it from the weather, and it also helps that the table is located underneath an awning, so it barely gets wet at all.
+One of the cutoffs I used for a colored deckstain "demo", and my better half eventully decided to go with the rust-like red that you can see in the pictures (I liked both colors equally anyway). So I applied that to the table, and - voila - here we have a nice coffee table, that completes our deck lounge since March 2020. The deck stain seals the wood off to protect it from the weather, though also helps that the table is located underneath an awning, which mean it barely gets wet at all.
 
 {% include gallery id="gallery_assembled_and_painted" caption="Assembled and painted" %}
 
