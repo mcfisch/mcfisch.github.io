@@ -14,7 +14,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes # https://mmistakes.github.io/minimal-mistakes/docs/configuration/
-# Outputting
+# Output
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
@@ -46,11 +46,6 @@ plugins:
 
 # Analytics
 #  - didn't work, adding as custom <head> instead
-# analytics:
-#   provider: "google-gtag"
-#   google:
-#     tracking_id: "G-D3RN7B5B75"
-#     anonymize_ip: true
 
 comments:
   provider: "giscus"
