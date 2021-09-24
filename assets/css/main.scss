@@ -103,6 +103,9 @@ i.fa-search {
   justify-content: center;
 }
 
+/* Pictures */
+
+
 /* Blockquotes */
 blockquote {
   font-style: normal; // this allows us to set a source in italic using markdown
@@ -110,6 +113,9 @@ blockquote {
 }
 .notice, .notice--primary, .notice--info, .notice--warning, .notice--success, .notice--danger {
   font-size: 0.9em !important; // overriding the 0.75em default for all notices
+}
+p img {
+  border-radius: 4px;
 }
 
 /* Adjusting links */
