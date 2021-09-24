@@ -85,13 +85,17 @@ i.fa-search {
   .sidebar {
     width: calc(180px - 1em);
   }
-  .sticky>* {
+  .sticky > * {
     text-align: -webkit-center;
   }
   .author__urls {
     margin: 0 1.5em;
     text-align: -webkit-left;
   }
+}
+/* ToC */
+.sticky > .toc {
+  text-align: left;
 }
 
 /* Center items, i.e. in galleries */
