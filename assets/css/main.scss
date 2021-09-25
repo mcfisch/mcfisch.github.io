@@ -10,6 +10,7 @@ $body-color: #222;
 $inline-code-color: #eee;
 $link-color-contrast: white;
 $font-kodchasan: "Kodchasan", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+// $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -102,9 +103,19 @@ i.fa-search {
 .justify-content {
   justify-content: center;
 }
+figcaption {
+  text-align: center;
+  text-justify: inter-word;
+  // margin-left: inherit;
+  // margin-right: auto;
+  // margin: 0 auto;
+  font-family: $sans-serif;
+}
 
 /* Pictures */
-
+p img {
+  border-radius: 4px;
+}
 
 /* Blockquotes */
 blockquote {
@@ -113,9 +124,6 @@ blockquote {
 }
 .notice, .notice--primary, .notice--info, .notice--warning, .notice--success, .notice--danger {
   font-size: 0.9em !important; // overriding the 0.75em default for all notices
-}
-p img {
-  border-radius: 4px;
 }
 
 /* Adjusting links */
