@@ -6,6 +6,10 @@ tags: [cpanel, letsencrypt, certbot, interserver, dns]
 excerpt: "Managing DNS records remotely via InterServer's cPanel API, allowing Certbot in a Docker container to request and to renew wildcard certificates from Let's Encrypt."
 classes: single
 toc: true
+header:
+  image: /assets/images/powershell_header-1280x200.png
+  teaser: /assets/images/powershell-250.png
+  og_image: /assets/images/powershell-250.png
 ---
 
 I need to remotely maintain DNS entries at my InterServer webhosting instance, and I want to use the `cPanel API v2` for that, because that's basically all InterServer, the DNS and hosting service I currently use, is providing access to.

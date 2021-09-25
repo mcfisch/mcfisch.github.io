@@ -3,6 +3,10 @@ title: "Welcome at McFiscH's"
 date: 2021-07-23 18:00 -0700
 categories: [General]
 excerpt: "I’m Mario, a SysAdmin, DevOps Engineer, Geek, Gamer, Musician, Woodworker and Dad."
+header:
+  image: /assets/images/powershell_header-1280x200.png
+  teaser: /assets/images/powershell-250.png
+  og_image: /assets/images/powershell-250.png
 ---
 > It's-a me, Mario!<br>
 > *Mario*

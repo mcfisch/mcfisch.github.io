@@ -6,6 +6,10 @@ tags: [Windows, WSL, VM, "Windows Subsystem for Linux", Hyper-V, CFG, "Control F
 excerpt: "When your `Windows Subsystem for Linux` VM crashes with no apparent error message, it could be due to a Windows security setting that blocks certain DLL calls."
 # toc: true
 classes: wide
+header:
+  image: /assets/images/powershell_header-1280x200.png
+  teaser: /assets/images/powershell-250.png
+  og_image: /assets/images/powershell-250.png
 ---
 
 This is one of those issues I ended up writing about because I had a hard time finding a solution for it as not many people seem to experience this under these specific circumstances. So I hope this makes somebody else's life easier in the future, too.

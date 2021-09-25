@@ -6,6 +6,10 @@ tags: [synology]
 excerpt: "This shows how to make the Syno Community package repository available to a Synology NAS."
 # toc: true
 classes: wide
+header:
+  image: /assets/images/powershell_header-1280x200.png
+  teaser: /assets/images/powershell-250.png
+  og_image: /assets/images/powershell-250.png
 ---
 
 This shows how to add the Syno Community packages to the list of package sources in a Synology NAS. The extra packages come in handy if one for instance needs a tool, that Synology only provides as part of a bigger package (i.e. `git`), or one they don't provide at all.
