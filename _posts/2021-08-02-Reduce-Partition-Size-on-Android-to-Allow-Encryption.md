@@ -153,6 +153,6 @@ Info: format successful
 
 If the commands from above are run again they should now reflect the new partition size.
 
-## Setup and enxrypt the device
+## Setup and encrypt the device
 
-Now you can set up the device again, then gp ahead and try encrypting it again. There should no longer be an error, the device encryption should finish just fine after an autmatic reboot or two.
+Now you can set up the device again, then gp ahead and try encrypting it again. There should no longer be an error, the device encryption should finish just fine after an automatic reboot or two.
