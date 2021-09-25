@@ -17,9 +17,9 @@ When (unsuccessfully) trying to encrypt the device's storage the output of `logc
 08-11 16:39:39.691  2370  5354 E Cryptfs : Orig filesystem overlaps crypto footer region.  Cannot encrypt in place.
 ```
 
-The Android FBE (File Based Encryption) needs some free space behind the partition to store some meta data to work, but there is none available. So in order to fix this the `/data` partion needs to be resized in a recovery session.
+The Android FBE (File Based Encryption) needs some free space behind the partition to store some meta data to work, but there is none available. So in order to fix this the `/data` partition needs to be resized in a recovery session.
 
-On newer devices that is possible with the `resize2fs` command (`resize2fs /dev/block/bootdevice/by-name/userdata <target block count>`), but not on older devices like `Potter`. Here the partion needs to be recreated manually with the proper size - accompanied by a *loss of data*. **This will wipe the device's storage!**
+On newer devices that is possible with the `resize2fs` command (`resize2fs /dev/block/bootdevice/by-name/userdata <target block count>`), but not on older devices like `Potter`. Here the partition needs to be recreated manually with the proper size - accompanied by a *loss of data*. **This will wipe the device's storage!**
 
 The process gneeds to take place in a recovery like [TWRP](https://twrp.me/), either in the integrated terminal, or through ADB - which for most people should be the more comfortable way.
 On some older versions of TWRP the issue seems not to exist as the menu-controlled formatting will leave some space at the end of the partition, but at least on `v3.5.2_9` this isn't the case.
@@ -36,7 +36,7 @@ First get the path of the actual block device or use the universal name `/dev/bl
  /dev/block/mmcblk0p54
 ```
 
-## Make sure the partion is unmounted
+## Make sure the partition is unmounted
 
 The device is usually mounted in two places. Both can be released in one step. If one isn't mounted the command will shoe a respective error that can be ignored.
 

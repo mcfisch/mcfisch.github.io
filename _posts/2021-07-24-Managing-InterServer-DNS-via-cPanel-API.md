@@ -3,7 +3,7 @@ title: "Managing InterServer DNS via cPanel API"
 date: 2021-07-24T18:00:00-07:00
 categories: [Tutorials, APIs]
 tags: [cpanel, letsencrypt, certbot, interserver, dns]
-excerpt: "Managing DNS records remotely via InterServer's cPanel API, allowing Certbot in a Docker continer to request and to renew wildcard certificates from Let's Encrypt."
+excerpt: "Managing DNS records remotely via InterServer's cPanel API, allowing Certbot in a Docker container to request and to renew wildcard certificates from Let's Encrypt."
 classes: single
 toc: true
 ---
@@ -16,7 +16,7 @@ Link: [cPanel documentation](https://documentation.cpanel.net/display/DD/cPanel+
 
 My main goal was to find a way of implementing this with `acme.sh` or `certbot` to enable automatic wildcard certificate renewals with [Let's Encrypt](https://letsencrypt.org/) in a reverse proxy container. The reason for this (likely overly complex) setup is that I have a Synology DiskStation behind my home router, that serves some applications available publicly (e.g. a photo gallery). This device isn't the only device that's hosting externally accessible resources, but until now that wasn't much of an issue: DSM, the OS that's running Synology devices, comes with a reverse proxy package, that can serve other applications too, additionally to those installed directly on the DiskStation.
 
-Recently I've switched to automated installations of my `RaspberryPi`s and other stuff, including applications hosted in containers on these `RaspberryPi`s and the DiskStation. So now the main problem is, that in order to get external services and more complex setups covered by the Synology reverse proxy, it's configuration needs customization that needs to be carefully built, maintained and backed up, because it's unsupoported and gets overwritten with any update of the DSM. The whole process is hacky and highly annoying and unreliable.
+Recently I've switched to automated installations of my `RaspberryPi`s and other stuff, including applications hosted in containers on these `RaspberryPi`s and the DiskStation. So now the main problem is, that in order to get external services and more complex setups covered by the Synology reverse proxy, it's configuration needs customization that needs to be carefully built, maintained and backed up, because it's unsupported and gets overwritten with any update of the DSM. The whole process is hacky and highly annoying and unreliable.
 
 ## First steps toward a solution
 
@@ -30,7 +30,7 @@ When this container is up and running it needs to be configured to serve as reve
 
 ### Certbot for certificate auto-renewal
 
-The next component in this setup is `certbot` which is responsible for the autmatic requests and renewals of SSL certificates. The easiest way for me to do this so far was letting the DSM do this. **BUT:** this implementation doesn't support wildcard certificates, and that meant I needed a different solution now. I no longer wanted to go through the hassle of maintaining a dozen different certificates or have multiple unrelated servernames hosted by one certificate. So for me the obvious solution for a centralized home-network reverse proxy is a wildcard certificate.
+The next component in this setup is `certbot` which is responsible for the automatic requests and renewals of SSL certificates. The easiest way for me to do this so far was letting the DSM do this. **BUT:** this implementation doesn't support wildcard certificates, and that meant I needed a different solution now. I no longer wanted to go through the hassle of maintaining a dozen different certificates or have multiple unrelated server names hosted by one certificate. So for me the obvious solution for a centralized home-network reverse proxy is a wildcard certificate.
 
 In a company's network, or in bigger installations I probably wouldn't use one wildcard certificate for everything, but - **it's my stuff, and I want one, so I'll get one!...**
 
