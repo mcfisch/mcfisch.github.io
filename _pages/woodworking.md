@@ -1,5 +1,5 @@
 ---
-title: Woodworking
+title: My Woodworking Projects & Stories
 permalink: /woodworking/ # path in URL
 layout: category
 taxonomy: Woodworking
