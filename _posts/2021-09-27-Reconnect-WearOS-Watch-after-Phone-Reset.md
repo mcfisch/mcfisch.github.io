@@ -7,6 +7,21 @@ excerpt: "Sometimes an Android phone is getting replaced, or it gets reset due t
 classes: wide
 header:
   image: /assets/images/powershell_header-1280x200.png
+  teaser: /assets/images/2021-09-27-Reconnect-WearOS-Watch-after-Phone-Reset/watch_connected-250.png
+  og_image: /assets/images/2021-09-27-Reconnect-WearOS-Watch-after-Phone-Reset/watch_connected-250.png
+gallery_watch_connected:
+  - url: /assets/images/2021-09-27-Reconnect-WearOS-Watch-after-Phone-Reset/screen3.png
+    image_path: /assets/images/2021-09-27-Reconnect-WearOS-Watch-after-Phone-Reset/screen3-350.png
+    alt: "The phone should now see the watch waiting for a connection"
+    title: "The phone should now see the watch waiting for a connection"
+  - url: /assets/images/2021-09-27-Reconnect-WearOS-Watch-after-Phone-Reset/screen4.png
+    image_path: /assets/images/2021-09-27-Reconnect-WearOS-Watch-after-Phone-Reset/screen4-350.png
+    alt: "The watch is building a new connection to the phone"
+    title: "The watch is building a new connection to the phone"
+  - url: /assets/images/2021-09-27-Reconnect-WearOS-Watch-after-Phone-Reset/screen5.png
+    image_path: /assets/images/2021-09-27-Reconnect-WearOS-Watch-after-Phone-Reset/screen5-350.png
+    alt: "The connection was successfully established"
+    title: "The connection was successfully established"
 ---
 Sometimes an Android phone is getting replaced, or it gets reset due to a problem, or after flashing a Custom ROM. Then the WearOS companion needs a reset too - or maybe it doesn't?
 
@@ -19,9 +34,12 @@ To issue the commands needed to have the watch reconnecting you need to establis
 However you get it on the system, make sure you can actually run the `adb` command from your preferred command line.
 
 ### Enable `Developer options`
+
+[![Enable Developer options in Settings](/assets/images/2021-09-27-Reconnect-WearOS-Watch-after-Phone-Reset/screen1-200.png)](/assets/images/2021-09-27-Reconnect-WearOS-Watch-after-Phone-Reset/screen1.png){: .align-right}
 If you haven't done that yet the first thing to do on the watch is to enable the `Developer Settings`. In order to do that you open the `Settings`, navigate to `System`, then `About`. There you scroll down and start tapping the line that says `Build number`. A toast notification (usually a small text bubble at the bottom of the screen) will appear multiple times and display a countdown. Keep tapping until it says `You are now a Developer`, then go back to the `Settings`. 
 
 ### Enable `ADB debugging`
+
 Open the `Developer options` at the bottom of the list and scroll until you see `ADB debugging`. Enable this. 
 
 Connect your computer to your watch. If you’re doing it over USB, plug your watch into your computer. If you are going to connect by Wi-Fi then you also need to enable the option `Debug over Wi-Fi`. Wait a moment and then note down the IP address that is now shown underneath that option, assuming the watch is on the same Wi-Fi as the computer.
@@ -30,13 +48,15 @@ Bluetooth is also an option here, but I've never tried that, as I find the Wi-Fi
 
 ### Connect via `ADB`
 
+[![Enable Developer options in Settings](/assets/images/2021-09-27-Reconnect-WearOS-Watch-after-Phone-Reset/screen2-200.png)](/assets/images/2021-09-27-Reconnect-WearOS-Watch-after-Phone-Reset/screen2.png){: .align-right}
 If you have connected the watch to your Wi-Fi, connect to the watch remotely via `ADB`. You can do this by typing `adb connect xxx.xxx.x.x:nnnn` with the `xxx.xxx.x.xx`’s being the IP you noted earlier under the wireless debugging option, and `nnnn` is the port `ADB` is using. If only one connection is active this port should be `5555` by default, otherwise use whatever the watch shows.
+
+For a USB connection no extra command is needed to connect, it happens automatically on the first run of `adb`.
 
 ```bash
 adb connect 192.168.1.187:5555
 ```
 
-For a USB connection no extra command is needed to connect, it happens automatically on the first run of `adb`.
 
 When the `ADB` connection is coming up the watch will display a prompt, asking `Allow Debugging?`. Chose either `OK` or `Always allow debugging from this computer`. Once it has successfully connected, run the next command to verify the connection is established. It should print an alphanumeric string that represents the device ID.
 
@@ -75,5 +95,7 @@ Confirm the prompt that appears on the watch, asking for allowing other devices 
 ### Connect your phone to the watch
 
 You may now open the Wear OS app on your phone and connect to the watch as if it were new.  If the app gets stuck on searching for updates, close the app and open it again. It’ll go away and the setup should work as usual like before, now with your new phone/ROM setup.
+
+{% include gallery id="gallery_watch_connected" caption="The watch is building a new connection to the phone without being fully reset" %}
 
 Enjoy!
