@@ -1,5 +1,5 @@
 ---
-title: "Making Adjustable Kids Desks During a Pandemic - a Woodworking Endeavour"
+title: "Making Adjustable Kids Desks During a Pandemic - a Woodworking Endeavor"
 date: 2021-09-22 12:00 -0700
 categories: [Woodworking]
 tags: [Woodworking, Furniture]
