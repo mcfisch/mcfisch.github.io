@@ -1,8 +1,11 @@
 ---
 title: "Welcome at McFiscH's"
 date: 2021-07-23 18:00 -0700
+permalink: /welcome/
 categories: [General]
 excerpt: "I’m Mario a.k.a. McFiscH - SysAdmin, DevOps Engineer, Geek, Gamer, Musician, Woodworker, Husband and Dad."
+header:
+  image: /assets/images/home_header-1280x200.png
 ---
 >It's-a me, Mario!<br>
 >*Mario*

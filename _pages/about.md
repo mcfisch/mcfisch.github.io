@@ -4,6 +4,7 @@ title: "About"
 excerpt: "It's-a me, Mario!"
 toc: false
 header:
+  image: /assets/images/home_header-1280x200.png
 ---
 >It's-a me, Mario!<br>
 >*Mario*
