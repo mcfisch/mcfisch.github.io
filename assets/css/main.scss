@@ -116,7 +116,40 @@ figcaption {
 p img {
   border-radius: 4px;
 }
+@media screen and (min-width: 800px) {
+  .entries-list .archive__item {
+    padding-bottom: 0.25em;
+    clear: both;
+    min-height: 11em;
+    max-height: 11em;
 
+    .archive__item-teaser {
+      float: left;
+      margin-right: 0.25em;
+      overflow: hidden;
+      width: 250px;
+      min-height: 150px;
+      max-height: 150px;
+      border-radius: 4px;
+      margin: 5px;
+      z-index: 10;
+      // border: 2px red solid;
+
+      img {
+        width: 100%;
+        height: auto;
+        z-index: auto;
+      }
+    }
+    .archive__item-postbox {
+      margin-left: 270px;
+
+      h2 {
+        margin: 0 0 0.5em;
+      }
+    }
+  }
+}
 /* Blockquotes */
 blockquote {
   font-style: normal; // this allows us to set a source in italic using markdown

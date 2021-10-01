@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 excerpt: "It's-a me, Mario!"
 toc: false
+header:
+  # 250px x 150px
+  teaser: /assets/images/m_tile_teaser.png
+  og_image: /assets/images/m_tile_teaser.png
 ---
 >It's-a me, Mario!<br>
 >*Mario*

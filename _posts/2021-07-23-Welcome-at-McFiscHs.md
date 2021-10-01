@@ -4,9 +4,8 @@ date: 2021-07-23 18:00 -0700
 categories: [General]
 excerpt: "I’m Mario a.k.a. McFiscH - SysAdmin, DevOps Engineer, Geek, Gamer, Musician, Woodworker, Husband and Dad."
 header:
-  image: /assets/images/powershell_header-1280x200.png
-  teaser: /assets/images/powershell-250.png
-  og_image: /assets/images/powershell-250.png
+  teaser: /assets/images/m_tile_teaser.png
+  og_image: /assets/images/m_tile_teaser.png
 ---
 >It's-a me, Mario!<br>
 >*Mario*
