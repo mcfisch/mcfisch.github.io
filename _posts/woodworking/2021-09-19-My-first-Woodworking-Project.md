@@ -8,30 +8,30 @@ toc: true
 layout: single
 # classes: wide
 header:
-  image: /assets/images/2021-09-19-My-first-Woodworking-Project/outdoor_table_header.jpg
-  teaser: /assets/images/2021-09-19-My-first-Woodworking-Project/finished_and_in_place_th2.jpg
-  og_image: /assets/images/2021-09-19-My-first-Woodworking-Project/finished_and_in_place_th2.jpg
+  image: /assets/images/woodworking/My-first-Woodworking-Project/outdoor_table_header.jpg
+  teaser: /assets/images/woodworking/My-first-Woodworking-Project/finished_and_in_place_th2.jpg
+  og_image: /assets/images/woodworking/My-first-Woodworking-Project/finished_and_in_place_th2.jpg
 gallery_parts_cut_and_drilled:
-  - url: /assets/images/2021-09-19-My-first-Woodworking-Project/all_parts_cut_and_drilled.jpg
-    image_path: /assets/images/2021-09-19-My-first-Woodworking-Project/all_parts_cut_and_drilled_th.jpg
+  - url: /assets/images/woodworking/My-first-Woodworking-Project/all_parts_cut_and_drilled.jpg
+    image_path: /assets/images/woodworking/My-first-Woodworking-Project/all_parts_cut_and_drilled_th.jpg
     alt: "all_parts_cut_and_drilled"
     title: "All parts cut and drilled"
 gallery_assembled_and_painted:
-  - url: /assets/images/2021-09-19-My-first-Woodworking-Project/assembled_and_painted_1.jpg
-    image_path: /assets/images/2021-09-19-My-first-Woodworking-Project/assembled_and_painted_1_th.jpg
+  - url: /assets/images/woodworking/My-first-Woodworking-Project/assembled_and_painted_1.jpg
+    image_path: /assets/images/woodworking/My-first-Woodworking-Project/assembled_and_painted_1_th.jpg
     alt: "assembled_and_painted_image_1"
     title: "Assembled and painted, image #1"
-  - url: /assets/images/2021-09-19-My-first-Woodworking-Project/assembled_and_painted_2.jpg
-    image_path: /assets/images/2021-09-19-My-first-Woodworking-Project/assembled_and_painted_2_th.jpg
+  - url: /assets/images/woodworking/My-first-Woodworking-Project/assembled_and_painted_2.jpg
+    image_path: /assets/images/woodworking/My-first-Woodworking-Project/assembled_and_painted_2_th.jpg
     alt: "assembled_and_painted_image_2"
     title: "Assembled and painted, image #2"
-  - url: /assets/images/2021-09-19-My-first-Woodworking-Project/assembled_and_painted_3.jpg
-    image_path: /assets/images/2021-09-19-My-first-Woodworking-Project/assembled_and_painted_3_th.jpg
+  - url: /assets/images/woodworking/My-first-Woodworking-Project/assembled_and_painted_3.jpg
+    image_path: /assets/images/woodworking/My-first-Woodworking-Project/assembled_and_painted_3_th.jpg
     alt: "assembled_and_painted_image_3"
     title: "Assembled and painted, image #3"
 gallery_finished_and_in_place:
-  - url: /assets/images/2021-09-19-My-first-Woodworking-Project/finished_and_in_place.jpg
-    image_path: /assets/images/2021-09-19-My-first-Woodworking-Project/finished_and_in_place_th.jpg
+  - url: /assets/images/woodworking/My-first-Woodworking-Project/finished_and_in_place.jpg
+    image_path: /assets/images/woodworking/My-first-Woodworking-Project/finished_and_in_place_th.jpg
     alt: "finished_and_in_place"
     title: "Finished and in place"
 ---

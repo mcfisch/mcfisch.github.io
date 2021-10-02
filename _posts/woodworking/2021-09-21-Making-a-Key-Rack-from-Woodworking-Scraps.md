@@ -9,70 +9,70 @@ layout: single
 # classes: wide
 header:
   # 1280x285
-  image: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack-header.jpg
-  teaser: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finished-350.jpg
-  og_image: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finished-350.jpg
+  image: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack-header.jpg
+  teaser: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finished-350.jpg
+  og_image: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finished-350.jpg
 gallery_front:
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_parts_and_planer.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_parts_and_planer-400x350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_parts_and_planer.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_parts_and_planer-400x350.jpg
     alt: "Pine strips planed in my DIY planer"
     title: "Pine strips planed in my DIY planer"
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_front_glued.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_front_glued-400x350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_front_glued.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_front_glued-400x350.jpg
     alt: "Pine strips glued together in random order"
     title: "Pine strips glued together in random order"
 gallery_back:
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_board_1.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_board_1-350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_board_1.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_board_1-350.jpg
     alt: ""
     title: ""
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_board_2.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_board_2-350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_board_2.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_board_2-350.jpg
     alt: ""
     title: ""
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_board_3.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_board_3-350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_board_3.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_board_3-350.jpg
     alt: ""
     title: ""
 gallery_frame:
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_frame_1.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_frame_1-350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_frame_1.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_frame_1-350.jpg
     alt: "Dialing and testing the saw"
     title: "Dialing and testing the saw"
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_frame_2.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_frame_2-350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_frame_2.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_frame_2-350.jpg
     alt: "Test fitting"
     title: "Test fitting"
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_frame_3.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_frame_3-350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_frame_3.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_frame_3-350.jpg
     alt: "Finally gluing up the frame"
     title: "Finally gluing up the frame"
 gallery_vase:
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_vase_1.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_vase_1-350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_vase_1.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_vase_1-350.jpg
     alt: ""
     title: ""
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_vase_2.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_vase_2-350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_vase_2.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_vase_2-350.jpg
     alt: ""
     title: ""
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_vase_3.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_vase_3-350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_vase_3.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_vase_3-350.jpg
     alt: ""
     title: ""
 gallery_stain:
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_stain.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_stain-350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_stain.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_stain-350.jpg
     alt: "All pieces finished and ready for final assembly"
     title: "All pieces finished and ready for final assembly"
 gallery_finish:
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finish.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finish-350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finish.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finish-350.jpg
     alt: "Re-staining the front for the second or third time"
     title: "Re-staining the front for the second or third time"
 gallery_key_rack_finished:
-  - url: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finished.jpg
-    image_path: /assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finished-350.jpg
+  - url: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finished.jpg
+    image_path: /assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_finished-350.jpg
     alt: "The finished key rack as it now hangs on our wall"
     title: "The finished key rack as it now hangs on our wall"
 ---
@@ -80,7 +80,7 @@ We needed a key rack, and we didn't really like any of those available in stores
 
 # Preparation
 
-[![Picture of a manual sketch](/assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_sketch-350.jpg)](/assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_sketch-1000.jpg){: .align-right}
+[![Picture of a manual sketch](/assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_sketch-350.jpg)](/assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_sketch-1000.jpg){: .align-right}
 First I sketched out some ideas, and after some discussions my wife and I settled on this design. 
 
 For me the purpose of this project was not just to build a key rack, but I also wanted to try out some new things. This was at the beginning of my woodworking journey, back in February 2020. So far I've mainly built some simple things, like this [outdoor coffee table made from 2x4's]({{ "/woodworking/My-first-Woodworking-Project" | relative_url }}), or spent time with building tools that I needed to proceed with other projects. Here I now had the chance to attempt other types of joinery, use a stain to make a cheap softwood like pine look more luxurious, and use some of my new tools for the first time.
@@ -89,7 +89,7 @@ I did build a small stationary planer, made from an electric handheld planer and
 
 # Material
 
-[![Pine strips cut from 2x4's](/assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_strips-350.jpg)](/assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_strips-1000.jpg){: .align-right}
+[![Pine strips cut from 2x4's](/assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_strips-350.jpg)](/assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_strips-1000.jpg){: .align-right}
 As the back of the key rack I chose a piece of MDF that I had laying around, and planned on glueing a layer of pieces of pine that were glued together to mimic the look of a hardwood floor - kind of. The frame that I wanted to put around was going to consist of leftover pieces of mahogany from when I restored a garden bench for kids. 
 
 The hooks I've ordered from a hardware store, and the vase is a regular mason jar I got from my wife.
@@ -178,7 +178,7 @@ The back has two picture holders screwed on which go onto hooks when mounting th
 
 Boy, that project did cost me quite some nerves. The part that I've expected to be the most difficult - the vase holder - actually went really smooth. But the simple task of staining the front of the board? That turned a serious challenge. And the rabbet on the back of the frame? That almost made me give up entirely as I couldn't figure out a way to safely route that after putting the pieces together. I ended up getting an offset trim bit for the router, and then took off small amounts of material at a time. And still, I never felt as safe as I would have preferred to...
 
-[![Seasonal flowers in the jar](/assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_flowers-350.jpg)](/assets/images/2021-09-21-Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_flowers.jpg){: .align-right}
+[![Seasonal flowers in the jar](/assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_flowers-350.jpg)](/assets/images/woodworking/Making-a-Key-Rack-from-Woodworking-Scraps/key_rack_flowers.jpg){: .align-right}
 However, the end result I find quite appealing, and so does my wife. Where I thought of the mason jar of more like a pen holder, or something where other small items can be stored, my wife looked at it and said "it's a vase, let's put some flowers in!"
 
 Now we have artificial flowers in that get replaced avery season, and I honestly like it a lot better than I expected. :grin:

@@ -9,51 +9,51 @@ layout: single
 # classes: wide
 header:
   # 1280x285
-  image: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed-header.jpg
-  teaser: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_teaser-350.jpg
-  og_image: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_teaser-350.jpg
+  image: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed-header.jpg
+  teaser: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_teaser-350.jpg
+  og_image: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_teaser-350.jpg
 gallery_sketchup:
-  - url: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_sketchup.jpg
-    image_path: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_sketchup-350.jpg
+  - url: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_sketchup.jpg
+    image_path: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_sketchup-350.jpg
     alt: "The final model of the plant bed in SketchUp"
     title: "The final model of the plant bed in SketchUp"
 gallery_cut_list:
-  - url: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_plan_1.jpg
-    image_path: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_plan_1-350.jpg
+  - url: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_plan_1.jpg
+    image_path: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_plan_1-350.jpg
     alt: "Printout of the cut list"
     title: "Printout of the cut list"
-  - url: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_plan_2.jpg
-    image_path: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_plan_2-350.jpg
+  - url: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_plan_2.jpg
+    image_path: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_plan_2-350.jpg
     alt: "Printout of the cut list"
     title: "Printout of the cut list"
 gallery_boards_cut:
-  - url: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_redwood.jpg
-    image_path: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_redwood-350.jpg
+  - url: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_redwood.jpg
+    image_path: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_redwood-350.jpg
     alt: "The first boards labeled and cut"
     title: "The first boards labeled and cut"
 gallery_glue_up:
-  - url: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_glue_up.jpg
-    image_path: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_glue_up-350.jpg
+  - url: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_glue_up.jpg
+    image_path: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_glue_up-350.jpg
     alt: "Glueing up the vertical posts"
     title: "Glueing up the vertical posts"
 gallery_assembly_start:
-  - url: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_assembly_start.jpg
-    image_path: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_assembly_start-350.jpg
+  - url: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_assembly_start.jpg
+    image_path: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_assembly_start-350.jpg
     alt: "Prepared everything to start the assembly"
     title: "Prepared everything to start the assembly"
 gallery_finished:
-  - url: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_finished.jpg
-    image_path: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_finished-350.jpg
+  - url: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_finished.jpg
+    image_path: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_finished-350.jpg
     alt: "The assembled plant bed, as planned in SketchUp"
     title: "The assembled plant bed, as planned in SketchUp"
 gallery_filling:
-  - url: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_filling.jpg
-    image_path: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_filling-350.jpg
+  - url: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_filling.jpg
+    image_path: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_filling-350.jpg
     alt: "Filling the finished plant bed up with a couple bags of soil"
     title: "Filling the finished plant bed up with a couple bags of soil"
 gallery_finished_with_top:
-  - url: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_finished_with_top.jpg
-    image_path: /assets/images/2021-09-29-Building-a-Raised-Vegetable-Garden/plant_bed_finished_with_top-350.jpg
+  - url: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_finished_with_top.jpg
+    image_path: /assets/images/woodworking/Building-a-Raised-Vegetable-Garden/plant_bed_finished_with_top-350.jpg
     alt: "The veggie garden after the first season"
     title: "The veggie garden after the first season"
 ---

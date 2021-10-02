@@ -10,57 +10,57 @@ layout: single
 collection: woodworking
 header:
   # 1280x285
-  image: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_header.jpg
-  teaser: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_header-350.jpg
-  og_image: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_header-350.jpg
+  image: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_header.jpg
+  teaser: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_header-350.jpg
+  og_image: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_header-350.jpg
 gallery_sidetracked:
-  - url: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_french_cleat.jpg
-    image_path: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_french_cleat-350.jpg
+  - url: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_french_cleat.jpg
+    image_path: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_french_cleat-350.jpg
     alt: "French cleat system to store tools on the wall"
     title: "French cleat system to store tools on the wall"
-  - url: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_table_saw_station.jpg
-    image_path: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_table_saw_station-350.jpg
+  - url: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_table_saw_station.jpg
+    image_path: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_table_saw_station-350.jpg
     alt: "Cabinet made as a stand for a jobsite table saw"
     title: "Cabinet made as a stand for a jobsite table saw"
-  - url: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_dust_collector.jpg
-    image_path: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_dust_collector-350.jpg
+  - url: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_dust_collector.jpg
+    image_path: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_dust_collector-350.jpg
     alt: "Dust collector with chip separator made from a trash can"
     title: "Dust collector with chip separator made from a trash can"
 gallery_front:
-  - url: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desks_in_place.jpg
-    image_path: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desks_in_place-400x350.jpg
+  - url: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desks_in_place.jpg
+    image_path: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desks_in_place-400x350.jpg
     alt: "The desks finally finished and set up in the kids room"
     title: "The desks finally finished and set up in the kids room"
 gallery_pieces_cut_and_routed:
-  - url: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_pieces_cut_and_routed.jpg
-    image_path: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_pieces_cut_and_routed-350.jpg
+  - url: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_pieces_cut_and_routed.jpg
+    image_path: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_pieces_cut_and_routed-350.jpg
     alt: "All pieces cut and routed"
     title: "All pieces cut and routed"
 gallery_hole_jigs:
-  - url: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_hole_jig_1.jpg
-    image_path: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_hole_jig_1-350.jpg
+  - url: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_hole_jig_1.jpg
+    image_path: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_hole_jig_1-350.jpg
     alt: "A hole jig for connector bolts and barrel nuts"
     title: "A hole jig for connector bolts and barrel nuts"
-  - url: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_hole_jig_2.jpg
-    image_path: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_hole_jig_2-350.jpg
+  - url: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_hole_jig_2.jpg
+    image_path: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_hole_jig_2-350.jpg
     alt: "A hole jig for the height adjustment"
     title: "A hole jig for the height adjustment"
 gallery_assembly:
-  - url: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_assembly.jpg
-    image_path: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_assembly-350.jpg
+  - url: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_assembly.jpg
+    image_path: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_assembly-350.jpg
     alt: "The final assembly is done - now it will sit for two to three weeks to lose its strong odor"
     title: "The final assembly is done - now it will sit for two to three weeks to lose its strong odor"
 gallery_desk_in_place:
-  - url: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_done_3.jpg
-    image_path: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_done_3-350.jpg
+  - url: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_done_3.jpg
+    image_path: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_done_3-350.jpg
     alt: "First desk in place!"
     title: "First desk in place!"
-#   - url: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_done_1.jpg
-#     image_path: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_done_1-350.jpg
+#   - url: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_done_1.jpg
+#     image_path: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_done_1-350.jpg
 #     alt: "First desk in place!"
 #     title: "First desk in place!"
-#   - url: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_done_2.jpg
-#     image_path: /assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_done_2-350.jpg
+#   - url: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_done_2.jpg
+#     image_path: /assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_done_2-350.jpg
 #     alt: "Second desk in place, too!"
 #     title: "Second desk in place, too!"
 # {% include gallery id="gallery_" caption="" %}
@@ -79,7 +79,7 @@ When the pandemic took off in the US in March 2020, my wife and I quickly had to
 
 ## A Makeshift "classroom"
 
-[![Makeshift desk setup for the kids](/assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_makeshift-350.jpg)](/assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_makeshift.jpg){: .align-right}
+[![Makeshift desk setup for the kids](/assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_makeshift-350.jpg)](/assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_makeshift.jpg){: .align-right}
 Luckily we had some regular kids chairs already, as well as a small folding camping table that we haven't used in a while, and a lot of kids learning and crafting material, books etc. Even more importantly: we also have the luxury of having enough space available to set that all up without sacrificing too much elsewhere. But quickly this "class room" turned into a mess with all kinds of crafting and drawing stuff, drawings, books, about a hundred crayons, pens, etc. and somewhere underneath this mess - a Chromebook.
 
 It didn't take long for us to realize that the space wasn't nearly as spacious as it would need to be to accommodate for all the equipment a TKer and a toddler would need for likely an entire year of remote learning. So we added another, even smaller, camping table to store some of the stuff, making more room to allow for the actual "work" on the makeshift desk. Alas, it still wasn't enough.
@@ -98,14 +98,14 @@ So from todays perspective I could very well just have ordered some desks from a
 
 ## Ideas and designs
 
-[![The almost finished SketchUp model](/assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_sketch-200.png)](/assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_sketch.png){: .align-right}
+[![The almost finished SketchUp model](/assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_sketch-200.png)](/assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_sketch.png){: .align-right}
 Instead I first learned how to create 3D models of my thoughts (which I scribbled on paper before) in `SketchUp`, so I could try out different ideas and designs. I came up with a promising model, that my wife liked too, and which - after quite a lot of modifications, and made out of expensive but crappy plywood (more on that later) - would eventually stand in our kid's room.
 
 But it was not until *15 months* later that the desks were finally replacing the flimsy camping equipment...
 
 ## Tools: store-bought, alienated, home-made
 
-[![DIY table saw](/assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_table_saw-350.jpg)](/assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_table_saw.jpg){: .align-right}
+[![DIY table saw](/assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_table_saw-350.jpg)](/assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_table_saw.jpg){: .align-right}
 The very first thing I've actually built when I started woodworking was a small table saw: a handheld, battery-powered 6-1/2 inch circular saw, mounted upside-down into a small home-made plywood table. It even had a modular setup, allowing for the use of multiple plates that had different tools mounted to them: a jigsaw (turning it into a scroll saw), a router (making it a router table), and said circular saw as table saw. I also made a crosscut sled for it, because, safety, you know. Soon I swapped the battery powered circ saw with a 7-1/4 inch chorded one, that had more power - and didn't require me to reach underneath the table to turn it on and off (remember, safety?). Instead I mounted a power outlet and a switch that allowed for easy, direct and relatively safe operation of the whole setup.
 
 However, though it came in very handy as a router table, as a saw this was way too small for what I was trying to achieve with my desk build. So I opted for an actual table saw instead, though by that time tools became less available and more expensive each day due to pandemic-related shortages. And *of course* I also needed other tools - a better working, battery powered jigsaw, a handheld router, another drill, etc.
@@ -165,7 +165,7 @@ Well, it *can*.
 
 Unfortunately when I started with this project I wasn't very experienced yet and bought the wrong plywood. Ok, not really the *wrong* plywood, but not something really good either. I got some birch ply from a local lumber store where they are more focused on construction lumber. And that shows in the quality of the birch ply I got. The main flaws were:
 
-[![Birch Plywood](/assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_birch_ply-350.jpg)](/assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_birch_ply.jpg){: .align-right}
+[![Birch Plywood](/assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_birch_ply-350.jpg)](/assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_birch_ply.jpg){: .align-right}
  - The veneer on both sides was so thin, that in some spots the underlying layer started to show already.
  - There were so many voids in some of the inner layers, that when trying to fill one during the build a tooth pick fell in on one side, just to fall out on the other end of the sheet.
  - The "bad" side of the sheet, where patches and fillers were applied visibly, was also the side that had the nicer grain pattern.
@@ -176,7 +176,7 @@ Initially I've also planned on applying an edge liner, but it turned out to be s
 
 ## Hardware
 
-[![Hardware for assembly](/assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_hardware-350.png)](/assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_hardware.png){: .align-right}
+[![Hardware for assembly](/assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_hardware-350.png)](/assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_hardware.png){: .align-right}
 For joining the individual pieces I ultimately decided to use knockdown furniture hardware: cam lock and barrel nuts, plus their respective bolt counterparts. Initially I had thought about using wooden dowels that I would glue in, but this would have made it almost impossible to later replace individual parts if ever needed, e.g. to replace the top, or use a larger one.
 
 Unfortunately this made the whole build so much more complicated, but I stuck with the decision anyway.
@@ -187,7 +187,7 @@ To hold the legs together I've tried to get some furniture bolts with their fitt
 
 To make sure everything fits perfectly on all pieces (*hahaha*...more on this later) a woodworker inevitably needs jigs: self-made tools and holders to guide blades and bits in a specific, accurate and repeatable pattern, way or distance. I've made some jigs specifically for this build, i.e. to route all holes for the leg connectors at the exact same places on each piece (a total of 128 holes), as well as one for the whole where the cam lock nuts furniture bolts were going to be. Others I already had, like one for drilling centered holes for dowels or cam lock bolts into the edge of a piece. 
 
-[![Hardware for assembly](/assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_template-350.jpg)](/assets/images/2021-09-22-Making-Adjustable-Kids-Desks/kids_desk_template.jpg){: .align-left}
+[![Hardware for assembly](/assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_template-350.jpg)](/assets/images/woodworking/Making-Adjustable-Kids-Desks/kids_desk_template.jpg){: .align-left}
 I made templates for the leg pieces as they all needed to be the exact same size, but in two different versions: the lower part would have an arc at the bottom for a more stable stand, that the top piece would not have. Also, having two pieces of basically the same shape allowed for testing of the actual height setting was working or not - which it wasn't, of course. This way I found out that just "carefully marking and drilling the holes on the drill press wasn't *cutting* it (hehe, see what I did there?). The holes turned out slightly off, just enough to make a smooth setup impossible. That's another reason why I've changed the plan eventually to use connector bolt nuts on both sides and a threaded rod to connect them both (as explained earlier).
 
 To make sure all the hardware would fit perfectly I've also had to get weirdly sized drill bits (i.e. 11/64in), as well as spiral (3/8in) and straight plunge (19mm, 10mm) router bits, and template guides that would also fit these. Another router bit that I had trouble finding first was a 1/16in round over bit, that is used to have a uniformly smooth edge all around your workpiece. 

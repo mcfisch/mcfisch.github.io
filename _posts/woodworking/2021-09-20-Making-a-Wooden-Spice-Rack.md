@@ -8,32 +8,32 @@ toc: true
 layout: single
 # classes: wide
 header:
-  image: /assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/wooden_spice_rack_header.jpg
-  teaser: /assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/finished_spice_rack-350.jpg
-  og_image: /assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/finished_spice_rack-350.jpg
+  image: /assets/images/woodworking/Making-a-Wooden-Spice-Rack/wooden_spice_rack_header.jpg
+  teaser: /assets/images/woodworking/Making-a-Wooden-Spice-Rack/finished_spice_rack-350.jpg
+  og_image: /assets/images/woodworking/Making-a-Wooden-Spice-Rack/finished_spice_rack-350.jpg
 gallery_vertical_grain_douglas_fir:
-  - url: /assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/vertical_grain_douglas_fir.jpg
-    image_path: /assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/vertical_grain_douglas_fir-350.jpg
+  - url: /assets/images/woodworking/Making-a-Wooden-Spice-Rack/vertical_grain_douglas_fir.jpg
+    image_path: /assets/images/woodworking/Making-a-Wooden-Spice-Rack/vertical_grain_douglas_fir-350.jpg
     alt: "A picture of the two Douglas Fir boards with a really nice vertical grain pattern, and also showing a printout of the SketchUp model"
     title: "Two nice boards of Vertical Grain Douglas Fir from a local lumber store, with the printout of the SketchUp model above"
 gallery_parts_cut_and_labeled:
-  - url: /assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/parts_cut_and_labeled.jpg
-    image_path: /assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/parts_cut_and_labeled-1000.jpg
+  - url: /assets/images/woodworking/Making-a-Wooden-Spice-Rack/parts_cut_and_labeled.jpg
+    image_path: /assets/images/woodworking/Making-a-Wooden-Spice-Rack/parts_cut_and_labeled-1000.jpg
     alt: "A picture of parts stacked, cut and labeled"
     title: "All parts cut and labeled"
 gallery_parts_routed_and_chiseled:
-  - url: /assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/parts_routed_and_chiseled.jpg
-    image_path: /assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/parts_routed_and_chiseled-1000.jpg
+  - url: /assets/images/woodworking/Making-a-Wooden-Spice-Rack/parts_routed_and_chiseled.jpg
+    image_path: /assets/images/woodworking/Making-a-Wooden-Spice-Rack/parts_routed_and_chiseled-1000.jpg
     alt: "A picture of parts stacked, all cut, routed and chiseled"
     title: "All parts routed and chiseled"
 gallery_finishing_with_poly:
-  - url: /assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/finishing_with_poly.jpg
-    image_path: /assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/finishing_with_poly-1000.jpg
+  - url: /assets/images/woodworking/Making-a-Wooden-Spice-Rack/finishing_with_poly.jpg
+    image_path: /assets/images/woodworking/Making-a-Wooden-Spice-Rack/finishing_with_poly-1000.jpg
     alt: "The spice rack with three layers of polyurethane applied"
     title: "The spice rack with three layers of polyurethane applied"
 gallery_finished_spice_rack:
-  - url: /assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/finished_spice_rack.jpg
-    image_path: /assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/finished_spice_rack-1000.jpg
+  - url: /assets/images/woodworking/Making-a-Wooden-Spice-Rack/finished_spice_rack.jpg
+    image_path: /assets/images/woodworking/Making-a-Wooden-Spice-Rack/finished_spice_rack-1000.jpg
     alt: "finished spice rack, demoed in our kitchen"
     title: "Finished spice rack"
 ---
@@ -45,7 +45,7 @@ At the end this spice rack build would have to follow specific measurements that
 
 # Preparation
 
-[![Screenshot of the SketchUp model](/assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/sketch-200.png)](/assets/images/2021-09-20-Making-a-Wooden-Spice-Rack/sketch.png){: .align-right}
+[![Screenshot of the SketchUp model](/assets/images/woodworking/Making-a-Wooden-Spice-Rack/sketch-200.png)](/assets/images/woodworking/Making-a-Wooden-Spice-Rack/sketch.png){: .align-right}
 We had to start with gathering the exact size the spice rack would have, as well as the amount and sizes of the spice jars it would take. When I got this information I started putting my thoughts into a SketchUp draft, learning how to do that as I was going. We had to decide on a final design, so I designed it with some different features, ultimately letting my wife pick what she thought looked best. 
 
 # Materials
