@@ -41,13 +41,13 @@ curl -I https://letsencrypt.org/certs/isrgrootx1.pem.txt'
 This will create a text file that has the checksum of the certificate file in it. After downloading the new root CA certificate with disabled SSL check (because that would fail as my system doesn't trust any new certificates yet which use this new CA) the check file allows me to verify that the downloaded file hasn't been tempered with.
 
 >I made sure to get the checksum from a valid copy of the file on my local system which already had this cert added automatically.
-{: .notice-danger }
+{: .notice--danger }
 
 Once that check succeeded the file will be moved to the right place in `/usr/share/ca-certificates/` and added to the config while the old certificate will be disabled. Then the ca-certificates database is updated and another call of `curl` is issued to verify the system is working as expected.
 
 ---
 
-The next step now is to cycle through the list of remote systems and issue the set of commands I've defined above.
+The next step then is to cycle through the list of remote systems and issue the set of commands I've defined above.
 
 ```bash
 for i in $iplist ; do ssh $i "$cmdlist"; done
@@ -55,4 +55,4 @@ for i in $iplist ; do ssh $i "$cmdlist"; done
 
 ---
 
-Sometimes I may add a `sleep 5` or so to the loop if I need to be able to interrupt the process between systems.
+Sometimes I may add a `sleep 5` or so to the loop if I need to be able to interrupt the process before moving on to the next system.
