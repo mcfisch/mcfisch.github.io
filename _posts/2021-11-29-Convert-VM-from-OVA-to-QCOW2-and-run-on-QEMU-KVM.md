@@ -19,7 +19,8 @@ I was handed a virtual appliance that had to be run in a customer's OpenStack en
 
 So my plan was to run a virtual machine with CentOS 7 in vSphere (something baremetal would have worked as well, but using our existing infrastructure was more convenient). Then this would run QEMU with KVM and operate the appliance from a converted virtual hard disk file using `libvirtd`.
 
->This post refers to the steps to make that conversion working on CentOS 7. If you run a different OS you need to adjust the commands accordingly.{: .notice--warning }
+>This post refers to the steps to make that conversion working on CentOS 7. If you run a different OS you need to adjust the commands accordingly.
+{: .notice--warning }
 
 ## Preparations
 
