@@ -309,7 +309,7 @@ virt-install --import --name $VMNAME --virt-type=kvm --memory 8192 --vcpus 8 --c
 
 Not only does that set the basic VM parameters as well as the hard-coded MAC addresses, it also specifies a key setting for the successful conversion of (at least my) vSphere virtual appliance to QEMU/KVM:
 
->... --disk $VMDIR/$VMNAME/$VMNAME.qcow2,format=qcow2,device=disk,bus=ide
+>`--disk $VMDIR/$VMNAME/$VMNAME.qcow2,format=qcow2,device=disk,bus=ide`
 
 The `bus=ide` at the end of the disk definition was crucial as the VMs wouldn't boot with any other configuration. This may vary for your appliance, so if an appliance won't boot check if setting another controller type makes it work. The most commonly used type for instance is `virtio`, but depending on your version of KVM it might be something like `scsi0.0`, `ahci.0` or `sata` instead, usually accompanied by a device id. Check the documentation for your particular QEMU/KVM installation.
 
