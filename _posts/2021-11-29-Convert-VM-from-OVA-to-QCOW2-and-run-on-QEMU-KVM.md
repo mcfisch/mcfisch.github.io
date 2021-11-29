@@ -87,7 +87,8 @@ qemu-img convert -O qcow2 $VMDIR/$VMNAME.qcow2 $VMDIR/$VMNAME-shrunk.qcow2
 
 The bigger file can be removed, and so can the other files that came with the `OVA`:
 
->Remember to get other information from the original `VMX` configuration file first, i.e. specific `MAC addresses` that you may need to configure in the VM to satisfy an existing DHCP config or so.{: .notice--warning }
+>Remember to get other information from the original `VMX` configuration file first, i.e. specific `MAC addresses` that you may need to configure in the VM to satisfy an existing DHCP config or so.
+{: .notice--warning }
 
 ```bash
 rm -f $VMDIR/$VMNAME.qcow2
