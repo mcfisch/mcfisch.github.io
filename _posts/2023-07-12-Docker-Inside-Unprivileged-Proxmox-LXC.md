@@ -3,7 +3,7 @@ title: "Docker Inside an Unprivileged Proxmox LXC Container"
 date: 2023-07-12 18:00 -0700
 categories: [Virtualization, Linux, Docker]
 tags: [docker, proxmox, linux,]
-excerpt: ""
+excerpt: "Instead of running a full VM just to run a bunch of Docker containers, I wanted to utilize the LXC feature of Proxmox. It allows for running a full Debian system in a container that, instead of emulating the hardware of a complete virtual machine, shares hardware and kernel with the Proxmox host. "
 # toc: true
 classes: single # single, wide, splash
 header:
@@ -52,7 +52,7 @@ A reboot shouldn't be necessary as the container uses the host's kernel, but it 
 
 #### Install additional packages
 
-Some tools might be needed for later steps, or just to satisfy personal preferences. I use `curl` and `vim` a lot, so these are on my list. `fuse-overlay` is necessary as in an unprivileged LXC container there are some permission issues prohibiting the default docker storage driver `overlayfs` from working correctly. `vfs` could be an alternative, but it lacks the space-saving features of `overlayfs` and can cause a massive headache by using disk space uncontrollably. That's where `fuse-overlay` comes in, the FUSE implementation of `overlayfs`.
+Some tools might be needed for later steps, or just to satisfy personal preferences. I use `curl` and `vim` a lot, so these are on my list. `fuse-overlayfs` is necessary as in an unprivileged LXC container there are some permission issues prohibiting the default docker storage driver `overlayfs` from working correctly. `vfs` could be an alternative, but it lacks the space-saving features of `overlayfs` and can cause a massive headache by using disk space uncontrollably. That's where `fuse-overlayfs` comes in, the FUSE implementation of `overlayfs`.
 
 ```sh
 apt install -y curl vim fuse-overlayfs
@@ -62,7 +62,7 @@ Once `apt` has finished, open the container's options in Proxmox and enable `FUS
 
 #### Install Docker
 
-Now the container is ready to get Docker. I prefer the convinience script that Docker provides. And since `curl` is already on the system I use it to fetch the script. For `wget` adjust the command accordingly (`curl`'s `-L` stands for "follow redirects").
+Now the container is ready to get Docker. I prefer the convenience script that Docker provides. And since `curl` is already on the system I use it to fetch the script. For `wget` adjust the command accordingly (`curl`'s `-L` stands for "follow redirects").
 
 ```sh
 curl -fsSL https://get.docker.com | sh
@@ -112,4 +112,4 @@ docker compose -f /docker/grafana/docker-compose.yml up -d
 
 If all goes well this will start an instance of each `Prometheus` and `Grafana`, using the sample `docker-compose` file from the Docker github repo.
 
-*Happy Containerizing*
+*Happy Containerizing!*
