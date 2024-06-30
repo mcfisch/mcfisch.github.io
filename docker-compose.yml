@@ -1,11 +1,13 @@
 version: "3"
 services:
   blog-mcfisch-com:
-    image: jekyll/jekyll:4.0
+    #image: jekyll/jekyll:latest
+    image: jvconseil/jekyll-docker:4.3.3
     # build: .
     environment:
       - JEKYILL_ENV=docker
-
+    env_file:
+      - ./.env
     # working on one post - use incremental mode
     command: jekyll serve --host 0.0.0.0 --drafts --config _config.yml,_config_dev.yml --watch --livereload --force_polling #--incremental
 
