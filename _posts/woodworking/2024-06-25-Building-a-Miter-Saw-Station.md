@@ -78,13 +78,13 @@ gallery_finished:
     title: "The finished miter saw station with the wings, the saw, and its new fences and insert installed"
 ---
 
-There is never enough space in the shop, and the miter saw needs a place to stay as well - so why not building a miter saw station with storage for other things? 
+There is never enough space in the shop, and the miter saw needs a place to stay as well - so why not building a miter saw station with storage for other things?
 
 To be clear: this is not meant to be the "ultimate miter saw station" as many woodworking content creators seem to claim for their own builds and adaptations, but rather my own attempt to use the available space in my small shop as efficiently as possible.
 
 ## Modeling
 
-As so often I used the free SketchUp 2017 to create a model that was initially inspired by some tutorials I have seen in woodworking magazines. That means it has a similar bottom as my table saw stand, which consists of reinforced 3/4" plywood and sits on four 3" swivel casters. 
+As so often I used the free SketchUp 2017 to create a model that was initially inspired by some tutorials I have seen in woodworking magazines. That means it has a similar bottom as my table saw stand, which consists of reinforced 3/4" plywood and sits on four 3" swivel casters.
 
 {% include gallery id="gallery_sketchup" caption="Model of the miter saw station created in SketchUp" %}{: .justify-content }
 
@@ -94,7 +94,7 @@ Initially I was also planning to install a dust hood I have found in SketchUp's 
 
 ## Materials
 
-The building material in this project is mainly ACX plywood in the nominal thicknesses of 1/4", 1/2" and 3/4". Have I used mainly scraps for my shop projects in the past, this time around I've shelled out some money to buy good quality plywood from a local hardwood store, which all the structural parts and the drawers are made from. Just the drawer fronts are from some scraps of poplar plywood, which is a lot more lightweight than ACX, but looks a lot better, too. 
+The building material in this project is mainly ACX plywood in the nominal thicknesses of 1/4", 1/2" and 3/4". Have I used mainly scraps for my shop projects in the past, this time around I've shelled out some money to buy good quality plywood from a local hardwood store, which all the structural parts and the drawers are made from. Just the drawer fronts are from some scraps of poplar plywood, which is a lot more lightweight than ACX, but looks a lot better, too.
 
 {% include gallery id="gallery_panels" caption="Selection of plywood panels, already cut to build drawers from" %}{: .justify-content }
 
@@ -116,7 +116,7 @@ In addition there is another 3/4" panel screwed to the top stretchers to give th
 
 ## Drawers
 
-The miter saw station has 5 drawers total, with 3 different heights. The two bottom drawers are the largest, with about 7.5" each. The next two drawers are only 6,5" high, and the top drawer is a little lower at almost 4". This is different than what the SketchUp model shows, with the reason being my better understanding of my shop storage needs later into the build. 
+The miter saw station has 5 drawers total, with 3 different heights. The two bottom drawers are the largest, with about 7.5" each. The next two drawers are only 6,5" high, and the top drawer is a little lower at almost 4". This is different than what the SketchUp model shows, with the reason being my better understanding of my shop storage needs later into the build.
 
 {% include gallery id="gallery_assembled" caption="The miter saw station cabinet with the drawers installed" %}{: .justify-content }
 
@@ -161,7 +161,7 @@ The stops consist of an unused flip stop from an old table saw sled, as well as 
 
 So, despite this being a relatively easy build it was the first time I had attempted to make an actual cabinet with more than one or two drawers. As expected I ran into some difficulties, mainly rooted in a lack of experience. So, for instance, I struggled with mounting the drawers and their respective slides in a consistent way. While likely nobody ever will notice any of the flaws I still want to improve the standards I hold myself to, so I'll keep practicing.
 
-Another difficulty was the mounting of the wings, which needed to be attached in a way that allows them to fold up far enough to allow the support cleat to be positioned as needed, as well as carrying the weight well enough to not just break off when placing a 4x6 on it, for instance. Then I also messed up the length of the wings by a 1/4 inch, which caused them to not fold down all the way as they were hitting the bottom. Instead of just cutting of the upper ends and make 2 new short strips to put in I've opted for two different ways to move the hinges so it created more clearance. 
+Another difficulty was the mounting of the wings, which needed to be attached in a way that allows them to fold up far enough to allow the support cleat to be positioned as needed, as well as carrying the weight well enough to not just break off when placing a 4x6 on it, for instance. Then I also messed up the length of the wings by a 1/4 inch, which caused them to not fold down all the way as they were hitting the bottom. Instead of just cutting of the upper ends and make 2 new short strips to put in I've opted for two different ways to move the hinges so it created more clearance.
 I've also had to set the hinges into the top panel a bit to make them flush with the top so they won't get in the way of the saw's feet - yes, I made the cabinet about 1/2" too narrow.
 
 The saw is usually bolted down with some 1/4" bolts with knobs and threaded inserts, but can easily be removed if needed.
