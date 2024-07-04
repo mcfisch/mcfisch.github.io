@@ -1,5 +1,6 @@
 # Site settings
 title: McFiscH's
+subtitle: Tech &amp; Woodcraft
 email:
 description: >-
   It's-a me, Mario, sharing my notes, knowledge, projects etc.
@@ -38,6 +39,17 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - docker-compose.yml
+  - .env
+  - cspell.config.yaml
 
 # Plugins (previously gems:)
 plugins:
@@ -47,6 +59,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # Analytics
 #  - didn't work, adding as custom <head> instead

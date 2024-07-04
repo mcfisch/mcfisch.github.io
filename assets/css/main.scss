@@ -62,17 +62,20 @@ i.fa-search {
 .site-title {
   font-family: $font-kodchasan;
   border: 2px solid $link-color-contrast;
-  font-size: 1.5em;
+  font-size: 1.525em;
   font-weight: bold;
   background: $link-color;
   box-shadow: 0 0 1px 2px $link-color;
   color: $link-color-contrast;
   border-radius: 2px;
   padding: 0.2em 0.5em;
-  height: 2em;
+  height: 3em;
   position: absolute;
   top: 0.25em;
   left: 0.25em;
+}
+.site-subtitle {
+  font-size: 0.55em;
 }
 .site-title:hover, .site-title:active {
   color: $link-color-contrast;
@@ -157,7 +160,10 @@ p img {
 /* Blockquotes */
 blockquote {
   font-style: normal; // this allows us to set a source in italic using markdown
-  border-left: 0.25em solid $link-color;
+  border-left: 0.5em solid $link-color !important;
+}
+.red-border {
+  border: 0.15em solid $link-color;
 }
 .notice, .notice--primary, .notice--info, .notice--warning, .notice--success, .notice--danger {
   font-size: 0.9em !important; // overriding the 0.75em default for all notices
