@@ -1,6 +1,6 @@
 ---
 title: "Building a Loft Bed for my Kid"
-date: 2024-06-25 12:00 -0700
+date: 2024-07-02 12:00 -0700
 categories: [Woodworking]
 tags: [Woodworking]
 excerpt: "My kid wanted a loft bed. but these are so expensive that I was sure I could do it much cheaper myself. Will this be a waste of money? Or will it turn out good enough to be proud of it?..."
