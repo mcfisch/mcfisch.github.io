@@ -13,7 +13,7 @@ layout: home
 ---
 >It's-a me, Mario!<br>
 >*Mario*
-{: .notice .red-border }
+{: .notice .red-border .adjust-notice-margins }
 
 Hi,
 
