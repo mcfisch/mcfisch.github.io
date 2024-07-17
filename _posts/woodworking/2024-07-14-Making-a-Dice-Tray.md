@@ -88,7 +88,7 @@ Once all 16 parts were done I've taped and glued them together and tightened wit
 
 {% include gallery id="gallery_build" caption="All blocks were first taped, then glued together. A band clamp put enough pressure on. Then it was the pocket screws' turn (pun intended)." %}
 
-The next task was to put a thin plywood panel on as a bottom and trim its edges. For that I cut the shape with a jigsaw, leaving it protruding by an eight of an inch, then used a router and a trim bit to cut it flush. I glued on the panel, and then used three screws to secure it even more (again, not really necessary as the glue is plenty strong).
+The next task was to put a thin plywood panel on as a bottom and trim its edges. For that I cut the shape with a jigsaw, leaving it protruding by an eighth of an inch, then used a router and a trim bit to cut it flush. I glued on the panel, and then used three screws to secure it even more (again, not really necessary as the glue is plenty strong).
 
 ## Wood Finish
 
